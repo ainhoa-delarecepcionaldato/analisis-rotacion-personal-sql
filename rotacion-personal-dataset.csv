@@ -1,0 +1,851 @@
+employee_id,full_name,department,job_title,hire_date,termination_date,salary,age,gender,performance_score
+1,Albano Llopis Hierro,Tecnología,Desarrollador Junior,2025-02-27,,29496,36,F,3.3
+2,Buenaventura de Bonet,Finanzas,Responsable Financiero,2025-02-25,,49295,27,M,4.5
+3,Ileana Antón-Andrés,Ventas,Comercial Junior,2022-03-24,2023-01-18,24304,60,F,3.6
+4,César Guerrero Vazquez,Atención al Cliente,Responsable de Atención al Cliente,2024-08-23,,37347,48,F,3.0
+5,Alba Mar Flor Rivas,Atención al Cliente,Agente Senior,2025-07-16,,25649,32,M,3.0
+6,Jacobo del Agudo,Operaciones,Técnico de Operaciones,2022-03-17,,22729,43,F,1.6
+7,Paco Rocamora Nieto,Ventas,Comercial Junior,2023-01-06,,25291,60,M,4.0
+8,Casemiro Garrido-Navarro,Finanzas,Responsable Financiero,2023-07-30,,44952,46,F,3.1
+9,Arturo Pinto Caballero,Atención al Cliente,Responsable de Atención al Cliente,2024-06-20,,35010,45,F,2.9
+10,Soraya Núñez Lamas,Tecnología,Desarrollador Junior,2024-09-16,,26860,40,F,3.0
+11,Pánfilo Segovia Casanovas,Marketing,Especialista de Marketing,2023-02-18,,25998,45,F,5.0
+12,Ani Marcos Pardo,Operaciones,Técnico de Operaciones,2024-10-04,,23828,26,F,3.5
+13,Celia Baños-Arroyo,Atención al Cliente,Agente de Soporte,2021-12-01,,20656,39,F,3.0
+14,Rolando del Bernal,Tecnología,Desarrollador Junior,2022-04-15,,29947,42,M,3.6
+15,Toribio de Pinto,Operaciones,Técnico de Operaciones,2026-02-14,,22970,42,F,2.7
+16,Javi Patiño-Cánovas,Tecnología,Desarrollador Senior,2025-12-17,,38730,51,F,3.0
+17,Felicidad Gallego Lasa,Operaciones,Técnico de Operaciones,2025-03-06,,23495,38,M,3.2
+18,Marco Donoso Hierro,Marketing,Marketing Senior,2023-01-12,,32954,30,M,2.5
+19,Jerónimo Pino Lerma,Ventas,Comercial Junior,2025-10-30,,23393,32,M,3.5
+20,Constanza del Barba,Atención al Cliente,Agente Senior,2023-02-21,,26492,51,M,3.5
+21,Segismundo de Moles,RRHH,Técnico de RRHH,2024-10-25,,24403,56,M,3.2
+22,Edelmira Batalla Galván,Finanzas,Analista Senior,2021-08-17,,34028,32,M,2.9
+23,Valentina Miranda-Garcia,Ventas,Responsable de Ventas,2025-11-29,,42232,54,F,4.1
+24,Gertrudis Segarra Clavero,Atención al Cliente,Agente de Soporte,2025-11-18,,21229,54,F,2.2
+25,Buenaventura Huerta-Jódar,Ventas,Comercial Junior,2024-01-10,,24770,55,F,3.1
+26,Inés Pujol-Paredes,Atención al Cliente,Agente Senior,2021-02-09,2021-09-07,26407,45,M,3.8
+27,Bruno del Bou,Operaciones,Técnico de Operaciones,2025-12-04,,24239,27,F,4.0
+28,Tito Canals Coronado,Finanzas,Analista Financiero,2026-06-26,,28754,30,F,3.3
+29,Ruy Roca Bartolomé,Tecnología,Responsable de Tecnología,2021-12-05,,50753,60,M,2.3
+30,Francisca Solé Ángel,RRHH,Responsable de RRHH,2025-03-27,,43149,34,M,3.3
+31,Leonel Alberdi-Carbó,Atención al Cliente,Responsable de Atención al Cliente,2024-08-23,,35452,55,M,4.2
+32,Pili del Nieto,Ventas,Comercial Junior,2021-05-12,,23751,59,F,4.0
+33,Eugenio Royo Cruz,Atención al Cliente,Agente de Soporte,2021-05-26,,21197,25,F,2.7
+34,Abril Lago Valle,Ventas,Comercial Junior,2025-10-27,,24436,54,F,4.1
+35,José Luis Camino Martín,Operaciones,Coordinador de Operaciones,2022-03-15,,31428,58,M,4.4
+36,María Fernanda Flor,Operaciones,Coordinador de Operaciones,2025-07-12,,30894,28,F,5.0
+37,Glauco Cuéllar Abascal,Tecnología,Desarrollador Senior,2023-05-18,,37466,25,F,3.1
+38,Etelvina Laura Aliaga Caparrós,Ventas,Responsable de Ventas,2022-11-26,,42898,28,F,2.4
+39,Valeria Meléndez Heras,Operaciones,Responsable de Operaciones,2023-07-08,2025-06-27,40633,33,M,3.6
+40,Dionisio Bermúdez Boada,Atención al Cliente,Agente de Soporte,2023-06-27,,21985,57,F,3.0
+41,Sabina Bayón Casas,Ventas,Responsable de Ventas,2025-09-09,2026-03-08,42163,27,F,3.8
+42,Narciso Talavera Dalmau,Ventas,Comercial Senior,2023-09-13,2025-11-01,31293,47,F,3.8
+43,Juan Luis Rocha-Galán,Ventas,Comercial Junior,2023-03-11,,24580,51,M,4.1
+44,Priscila de Mesa,Atención al Cliente,Responsable de Atención al Cliente,2025-05-24,,35063,53,F,3.2
+45,Nazaret Perea Ríos,Operaciones,Técnico de Operaciones,2026-06-07,,22280,56,F,1.5
+46,Jennifer Carrillo,Finanzas,Analista Financiero,2021-04-13,,28345,54,F,3.1
+47,Daniel de Neira,Ventas,Responsable de Ventas,2021-06-14,,42518,26,F,3.7
+48,Macario Grau Giménez,Tecnología,Desarrollador Junior,2023-04-07,,28833,58,F,3.6
+49,Andrés Felipe Barral Granados,Atención al Cliente,Agente de Soporte,2024-06-22,2024-08-21,21171,59,M,3.3
+50,Víctor Angulo Murillo,RRHH,Técnico de RRHH,2024-10-03,,22901,37,M,3.4
+51,José Ángel Gárate Lopez,Atención al Cliente,Responsable de Atención al Cliente,2024-08-14,2025-09-08,39284,42,F,3.7
+52,Clotilde Catalán Suárez,Ventas,Responsable de Ventas,2024-02-28,,42568,26,F,3.0
+53,Ruben del Ramírez,Atención al Cliente,Agente de Soporte,2026-03-27,,20719,26,F,3.6
+54,Asdrubal Caballero,Operaciones,Técnico de Operaciones,2023-06-17,,23493,41,F,3.9
+55,Felicidad Roda Reig,Tecnología,Responsable de Tecnología,2022-09-06,,49700,28,F,2.9
+56,Teresa Balaguer Cabello,Operaciones,Técnico de Operaciones,2025-03-01,,24144,39,M,2.8
+57,Heriberto Nicolau Canales,Tecnología,Responsable de Tecnología,2022-12-04,,54768,38,M,4.4
+58,Clemente de Sanabria,Operaciones,Técnico de Operaciones,2021-07-09,,24660,39,F,2.8
+59,Héctor Español Lopez,Ventas,Comercial Junior,2024-07-28,,24564,32,M,3.1
+60,Diana Benet Salazar,Atención al Cliente,Agente Senior,2024-02-23,2026-01-13,26066,26,F,3.0
+61,Ariel de Alcolea,Atención al Cliente,Agente Senior,2024-04-07,,24966,49,F,3.4
+62,Renato Guzmán Delgado,Ventas,Comercial Senior,2026-01-16,,30583,24,M,3.7
+63,Julieta Teruel García,Operaciones,Técnico de Operaciones,2024-09-27,2025-03-26,24791,57,M,3.1
+64,Yaiza Barral Cózar,RRHH,Responsable de RRHH,2021-11-13,,40171,37,F,3.2
+65,Abril Portero Lara,RRHH,Técnico de RRHH,2025-12-11,,24963,33,M,4.1
+66,Eloísa Rocha Torrecilla,Finanzas,Analista Senior,2025-07-01,,36701,37,M,4.4
+67,Claudio Martin Gelabert,Ventas,Responsable de Ventas,2021-08-10,,47231,24,M,3.2
+68,Luis Miguel Barrera Mir,Operaciones,Coordinador de Operaciones,2022-12-18,,30259,36,F,2.4
+69,Amador Tapia Valverde,Ventas,Comercial Junior,2023-03-28,,25492,26,M,4.3
+70,Camila Barberá,Operaciones,Responsable de Operaciones,2023-03-30,,39554,56,M,3.8
+71,Anita Estevez,RRHH,Técnico de RRHH,2025-12-02,,25514,33,M,3.6
+72,Manuel Bayo Gutierrez,Ventas,Responsable de Ventas,2023-06-09,,44412,42,M,3.5
+73,Azeneth Hoz Ariño,Tecnología,Responsable de Tecnología,2021-08-25,,49566,58,F,4.1
+74,Anita Hortensia Yáñez Molina,Operaciones,Responsable de Operaciones,2023-06-13,2025-10-30,39375,56,F,4.0
+75,Cristian Miralles-Gómez,Operaciones,Técnico de Operaciones,2026-04-28,,24465,43,M,2.8
+76,Hector Castro-Marín,Tecnología,Desarrollador Junior,2025-01-14,,29963,54,M,3.7
+77,Estela Belmonte Agustí,Tecnología,Desarrollador Senior,2023-04-05,,40370,57,F,4.7
+78,María Ángeles Cabo Beltrán,Operaciones,Responsable de Operaciones,2026-04-10,,40591,33,M,2.9
+79,Clotilde del Cazorla,Atención al Cliente,Agente de Soporte,2022-09-15,2023-03-14,20456,49,M,4.0
+80,Vera Bayona Hidalgo,Atención al Cliente,Agente Senior,2024-10-15,2025-08-11,26008,52,F,4.4
+81,Elodia Cruz Ríos,Tecnología,Desarrollador Senior,2023-11-22,,38558,43,F,5.0
+82,Ofelia del Ángel,Finanzas,Analista Financiero,2024-10-09,,28625,34,F,2.8
+83,Nazario Marí Calleja,Ventas,Comercial Junior,2023-09-01,,23607,26,M,3.7
+84,Eligio Carlos Campo,Atención al Cliente,Responsable de Atención al Cliente,2024-03-24,2025-01-18,36952,46,M,3.3
+85,Calixta del Luján,Atención al Cliente,Agente de Soporte,2024-09-05,,21493,28,M,3.1
+86,Clementina Paca Novoa Frutos,Operaciones,Responsable de Operaciones,2023-11-27,,42295,57,F,4.1
+87,José Antonio Torres-Iglesias,Marketing,Especialista de Marketing,2023-07-24,2024-04-19,25678,51,M,2.5
+88,Arturo Roda Lloret,RRHH,Especialista de RRHH,2024-06-08,,31702,54,M,3.7
+89,Abel Múgica Castrillo,Marketing,Responsable de Marketing,2023-07-03,,41174,52,M,3.5
+90,Cecilio Sala-Roma,Operaciones,Técnico de Operaciones,2025-09-17,,23548,55,M,2.6
+91,Adelia de Benet,Tecnología,Desarrollador Senior,2023-06-20,2024-10-12,39934,40,F,2.7
+92,Leandro Araujo Peiró,Operaciones,Coordinador de Operaciones,2026-01-03,,32112,30,F,4.0
+93,Mamen Colomer-Ropero,Operaciones,Responsable de Operaciones,2021-11-09,,39993,26,M,3.6
+94,Alfonso Mendez Pastor,Atención al Cliente,Responsable de Atención al Cliente,2023-08-13,,36342,35,M,3.4
+95,Vinicio Pallarès Gallo,Atención al Cliente,Responsable de Atención al Cliente,2026-04-22,,37162,58,M,4.4
+96,Nazario de Otero,Atención al Cliente,Agente Senior,2022-09-04,,26004,48,F,4.3
+97,Verónica del Cortes,Atención al Cliente,Agente Senior,2023-06-12,,26658,46,M,3.6
+98,Toni de Elorza,Tecnología,Desarrollador Senior,2025-01-23,,39293,51,F,2.6
+99,Aitana Escobar Márquez,RRHH,Responsable de RRHH,2021-02-25,,39248,59,F,3.5
+100,Rosario Hurtado Lasa,Ventas,Comercial Senior,2021-10-05,,30858,33,F,3.4
+101,Rufino Campoy Piñeiro,Operaciones,Coordinador de Operaciones,2022-03-10,,29876,43,M,2.1
+102,Timoteo Sosa Girón,Operaciones,Coordinador de Operaciones,2022-06-01,,30916,52,F,3.1
+103,Sebastian Seguí,Finanzas,Analista Financiero,2026-05-04,,28080,26,F,2.8
+104,Encarnación Goñi Gisbert,Finanzas,Analista Financiero,2022-02-13,,27665,31,F,4.5
+105,Narciso Ferrando Pujadas,Ventas,Responsable de Ventas,2021-08-23,,43214,35,M,3.8
+106,Eligia Baños Lorenzo,Tecnología,Desarrollador Senior,2021-12-10,,36881,29,F,5.0
+107,Miguela Vergara Pulido,RRHH,Técnico de RRHH,2024-03-31,,22812,41,M,3.5
+108,Eusebia de Carlos,Atención al Cliente,Responsable de Atención al Cliente,2022-02-11,2022-09-09,37136,37,F,2.9
+109,Chuy Lara-Arenas,Tecnología,Desarrollador Senior,2025-10-08,,41768,29,F,3.2
+110,Marc Rovira Ojeda,Operaciones,Coordinador de Operaciones,2024-09-16,,30129,54,M,3.6
+111,Isa Vidal Carlos,Ventas,Comercial Senior,2025-08-12,,29850,49,M,4.1
+112,Ximena Falcón Iñiguez,Tecnología,Desarrollador Senior,2024-12-19,,41110,33,M,3.7
+113,Paulino Rubio Abellán,Tecnología,Responsable de Tecnología,2025-05-06,,55302,49,M,2.5
+114,Ángela Figueras,Operaciones,Técnico de Operaciones,2025-08-29,,25036,39,M,2.9
+115,Irene Becerra Murillo,Operaciones,Coordinador de Operaciones,2024-03-13,,29006,46,M,3.2
+116,Estefanía Narcisa Casanovas Mas,Ventas,Comercial Senior,2022-01-08,,34496,44,M,3.4
+117,Esmeralda Real,Operaciones,Responsable de Operaciones,2024-12-07,,39445,57,F,2.5
+118,Graciana Marqués Castejón,Atención al Cliente,Agente de Soporte,2021-06-25,2022-05-21,22088,48,M,2.4
+119,Humberto Pinilla,Atención al Cliente,Agente de Soporte,2024-11-15,,20706,53,M,3.5
+120,Mario Mascaró Ramis,Finanzas,Analista Financiero,2022-08-26,,29441,37,M,2.4
+121,Serafina de Mateu,Tecnología,Desarrollador Senior,2023-08-28,,40938,44,M,3.4
+122,Cruz Ildefonso Montserrat Sola,RRHH,Responsable de RRHH,2022-11-09,,40027,51,M,3.7
+123,Isaura García Vicente,Operaciones,Técnico de Operaciones,2021-09-05,,23665,42,F,3.0
+124,Rosalina Doménech Blazquez,Finanzas,Responsable Financiero,2022-01-15,,48139,52,M,3.1
+125,José Ángel Natanael Naranjo Bueno,Finanzas,Responsable Financiero,2024-05-07,,48227,28,F,3.9
+126,Nicodemo del Gomila,Operaciones,Coordinador de Operaciones,2022-01-03,,32350,56,F,2.5
+127,Candelario Amat,Operaciones,Técnico de Operaciones,2024-02-08,,25277,30,M,2.0
+128,Donato Talavera Beltran,Ventas,Comercial Junior,2024-03-21,,24373,52,M,3.8
+129,Herminia Ferreras Plana,Operaciones,Técnico de Operaciones,2022-06-02,,23734,52,F,3.0
+130,Gloria Hervás Coloma,Marketing,Marketing Senior,2023-10-05,2024-07-31,31924,25,F,3.0
+131,Victoriano Campillo Rodríguez,Ventas,Responsable de Ventas,2026-04-28,,42407,37,F,4.1
+132,Chus del Ayllón,Atención al Cliente,Agente Senior,2024-05-26,,26968,36,M,3.7
+133,Diana de Sastre,Atención al Cliente,Agente Senior,2022-09-01,,26387,49,M,3.0
+134,Salvador Sobrino Molins,Atención al Cliente,Agente de Soporte,2024-06-02,,21584,28,F,3.8
+135,María José Vargas Roldan,Tecnología,Desarrollador Senior,2024-09-14,2025-04-12,38965,37,F,3.5
+136,Itziar de Taboada,Atención al Cliente,Agente de Soporte,2021-01-06,,21851,60,M,3.0
+137,Dora Huertas Lluch,Operaciones,Técnico de Operaciones,2022-08-14,,23955,51,F,3.3
+138,Julieta Haro,Tecnología,Desarrollador Senior,2025-06-02,,38637,59,F,4.2
+139,Isidro Berenguer-Macias,Atención al Cliente,Responsable de Atención al Cliente,2022-04-06,,37100,39,F,4.0
+140,Elías del Montenegro,Ventas,Comercial Junior,2025-06-12,,25587,58,M,3.4
+141,Anita de Contreras,Atención al Cliente,Agente Senior,2024-11-11,2026-06-04,25793,47,M,3.2
+142,Gregorio de Gargallo,Atención al Cliente,Agente Senior,2023-06-16,2024-01-12,26064,24,M,3.8
+143,Hipólito Ramón Muro,Finanzas,Responsable Financiero,2022-05-28,2022-11-24,52184,36,F,4.2
+144,Josefa del Barrios,RRHH,Responsable de RRHH,2025-08-10,,39705,24,F,3.9
+145,Sigfrido Rivera,Atención al Cliente,Responsable de Atención al Cliente,2023-06-25,,36889,33,M,2.9
+146,Yolanda Aller Pintor,Tecnología,Desarrollador Senior,2026-06-08,,40625,44,M,3.3
+147,Adelaida Ortiz Martín,Operaciones,Responsable de Operaciones,2021-08-03,,39624,43,M,3.2
+148,Tamara Rius Giménez,Tecnología,Desarrollador Senior,2024-09-18,,39688,57,F,3.0
+149,Constanza Llamas Ruano,Atención al Cliente,Agente Senior,2022-06-01,,25451,47,F,3.6
+150,Albina Porcel Navarrete,Tecnología,Responsable de Tecnología,2023-08-05,,52489,34,M,3.0
+151,Paloma Dalmau Solsona,Tecnología,Desarrollador Senior,2024-07-04,,38214,25,F,3.6
+152,María Amores Prada,Operaciones,Técnico de Operaciones,2026-03-15,,22293,53,F,2.4
+153,Marcela Amores-Blanes,Ventas,Responsable de Ventas,2024-05-31,,41802,32,M,3.3
+154,Bernarda Serrano Espada,Atención al Cliente,Responsable de Atención al Cliente,2023-04-16,2024-07-09,37967,29,M,3.2
+155,Eladio Pinilla Morán,RRHH,Responsable de RRHH,2025-09-01,,41493,40,M,2.9
+156,Javi Morillo,Atención al Cliente,Agente Senior,2026-07-01,,25967,51,F,4.3
+157,Pía Pinilla Lobo,Atención al Cliente,Responsable de Atención al Cliente,2023-11-07,,37027,30,F,3.7
+158,Dolores Bilbao Sosa,Operaciones,Coordinador de Operaciones,2022-11-28,,30603,54,M,2.4
+159,Reinaldo Azorin Olmo,Marketing,Marketing Senior,2025-01-26,,31515,59,M,3.2
+160,Moreno de Arjona,Marketing,Marketing Senior,2024-01-09,,33033,43,M,3.4
+161,Duilio Flores Almagro,Atención al Cliente,Agente Senior,2025-11-16,,26065,37,M,2.9
+162,Calista Dafne Cases Sáenz,Operaciones,Coordinador de Operaciones,2021-03-31,,30528,52,M,3.7
+163,Lope Gibert Sola,Atención al Cliente,Responsable de Atención al Cliente,2025-06-11,,37934,31,M,4.1
+164,Rodolfo Peinado-Diez,RRHH,Técnico de RRHH,2023-10-26,,26294,43,F,2.9
+165,María Dolores Piedad Carbó Céspedes,Marketing,Marketing Senior,2021-07-24,,33517,51,F,3.5
+166,Baltasar Luis Miguel Amigó Mesa,Finanzas,Analista Senior,2025-11-19,,38919,31,F,2.8
+167,Nicolasa Perez-Puente,Atención al Cliente,Agente Senior,2022-11-25,,25440,47,F,3.0
+168,Anselmo Herrero,Marketing,Responsable de Marketing,2025-10-26,,39314,42,M,3.0
+169,Pablo Mata Carrillo,Marketing,Especialista de Marketing,2024-06-18,2025-01-14,25625,40,F,2.1
+170,Ricarda Armengol-Olivera,Finanzas,Analista Senior,2026-06-27,,34802,28,M,3.7
+171,Inés del Bayón,Ventas,Comercial Senior,2026-01-25,2026-05-25,34441,42,F,3.3
+172,Miriam Nogueira,Operaciones,Coordinador de Operaciones,2023-06-02,2024-03-28,28501,55,M,4.3
+173,Teobaldo Rivera Trillo,Atención al Cliente,Agente de Soporte,2021-12-15,2022-11-10,21825,46,F,3.3
+174,Inocencio Paredes Segura,Atención al Cliente,Responsable de Atención al Cliente,2021-10-21,2022-10-16,36006,38,M,3.4
+175,Isaac Echeverría Vélez,Operaciones,Técnico de Operaciones,2026-01-15,,23124,40,F,3.8
+176,Mario Tomás-Sola,Ventas,Comercial Senior,2024-04-18,,30576,49,M,3.3
+177,Sara Ledesma Mora,Atención al Cliente,Agente Senior,2022-02-12,,26080,52,F,3.8
+178,Severo de Lorenzo,Operaciones,Responsable de Operaciones,2023-01-06,,42186,40,F,2.6
+179,Daniela Sobrino Pinilla,RRHH,Responsable de RRHH,2023-03-22,,39198,58,F,4.3
+180,Albina Urrutia Morcillo,Marketing,Responsable de Marketing,2023-10-15,,42998,40,F,2.9
+181,Jose Francisco Garay Pacheco,Tecnología,Desarrollador Senior,2022-03-25,,41585,38,F,3.5
+182,Francisco Losa-Llorente,Tecnología,Responsable de Tecnología,2024-08-16,,52135,50,F,4.1
+183,Adelina de Boada,Atención al Cliente,Responsable de Atención al Cliente,2021-09-27,2022-11-21,36860,40,M,4.4
+184,Plácido del Torres,Finanzas,Analista Financiero,2022-02-16,,27035,56,M,3.9
+185,Purificación de Tamayo,Atención al Cliente,Agente Senior,2025-08-28,,24827,52,M,4.0
+186,Jacinta Alemany Buendía,Finanzas,Analista Senior,2025-07-06,,35817,26,F,3.5
+187,Dan Hermenegildo Hervia Medina,Finanzas,Analista Financiero,2025-10-28,,25829,47,M,3.1
+188,Flor Sáenz-Núñez,Ventas,Comercial Senior,2021-01-29,,33779,29,M,4.1
+189,Petrona Muro Ortiz,Operaciones,Responsable de Operaciones,2024-10-08,,41551,46,M,3.4
+190,Elba Medina Iglesias,Ventas,Comercial Junior,2023-08-24,2025-05-15,24820,57,M,3.4
+191,Benito de Moles,Marketing,Especialista de Marketing,2024-08-19,2024-10-18,25425,51,M,3.3
+192,Ramiro Esteve Feliu,Tecnología,Desarrollador Junior,2021-10-14,2022-09-09,29366,24,M,2.7
+193,Rafael Tomé,RRHH,Técnico de RRHH,2021-07-19,,24071,56,F,2.7
+194,Porfirio Zamorano-Luna,Atención al Cliente,Agente Senior,2024-10-05,,25958,56,M,4.1
+195,Sigfrido Ferrera Marti,Atención al Cliente,Responsable de Atención al Cliente,2021-11-13,,34685,28,M,3.8
+196,Geraldo de Mate,Tecnología,Desarrollador Senior,2021-03-09,,38116,35,M,2.8
+197,Paulino Castañeda Lledó,Atención al Cliente,Agente de Soporte,2025-10-18,,20928,45,M,2.7
+198,Amando Manzano Cases,Ventas,Comercial Senior,2022-01-24,,31261,51,F,2.6
+199,Aroa Alberola Luís,Tecnología,Responsable de Tecnología,2024-08-02,,55929,23,F,3.4
+200,Julia Saez Niño,Finanzas,Analista Financiero,2021-09-15,,27300,35,F,3.5
+201,Amancio Iriarte Tejedor,Marketing,Responsable de Marketing,2022-03-01,,42331,36,M,3.2
+202,Segismundo Bas Pérez,Finanzas,Responsable Financiero,2021-01-06,,49228,31,F,3.9
+203,Angelina Baeza Cordero,Atención al Cliente,Agente de Soporte,2021-08-14,,20646,23,F,3.0
+204,Santiago Mateu Blázquez,Ventas,Comercial Junior,2024-04-20,,24270,33,M,1.8
+205,Benigno del Gonzalez,Ventas,Responsable de Ventas,2023-05-13,,40474,26,M,4.4
+206,Fortunata Sanjuan,Atención al Cliente,Agente Senior,2023-11-18,,27096,50,F,3.2
+207,Emma Romeu Mayoral,RRHH,Técnico de RRHH,2025-01-29,,24980,55,M,3.6
+208,María Teresa Barrena-Cabezas,Atención al Cliente,Agente de Soporte,2021-05-05,,23052,47,M,4.2
+209,Matías Galván,Tecnología,Desarrollador Senior,2024-12-29,,38786,26,F,2.7
+210,Natalio Bertrán-Crespo,Operaciones,Técnico de Operaciones,2021-05-15,2021-08-13,23669,59,M,3.3
+211,Chema de Crespi,Atención al Cliente,Responsable de Atención al Cliente,2023-12-23,2024-12-17,35137,54,M,2.6
+212,Hernando Sanjuan Soriano,Ventas,Responsable de Ventas,2021-08-23,,45811,57,F,4.0
+213,Alcides David Maldonado Luna,Atención al Cliente,Agente de Soporte,2023-04-28,,20994,51,M,4.4
+214,Andrea Guillen Lamas,Atención al Cliente,Agente de Soporte,2022-10-03,,21051,38,M,2.8
+215,Nadia Figuerola-Rodríguez,RRHH,Responsable de RRHH,2026-03-06,,43784,27,F,3.8
+216,Lalo Gomila Company,Ventas,Comercial Junior,2025-03-05,,23635,30,F,3.3
+217,Severiano Cisneros-Bellido,Atención al Cliente,Responsable de Atención al Cliente,2024-02-25,,34832,29,M,2.4
+218,Celestino Meléndez Malo,Operaciones,Responsable de Operaciones,2026-04-12,,42543,25,M,4.7
+219,Beatriz Solís Mateu,Tecnología,Desarrollador Senior,2021-08-01,,36669,35,F,3.8
+220,Elena Vall Uribe,Tecnología,Desarrollador Junior,2025-10-02,,28349,57,M,3.1
+221,Anita Ariño Rosales,Ventas,Comercial Senior,2024-03-21,2024-11-16,30848,49,F,1.6
+222,María Del Carmen Ibáñez Amigó,Tecnología,Responsable de Tecnología,2025-08-26,,53369,23,F,3.7
+223,Darío Almansa Leon,Operaciones,Coordinador de Operaciones,2026-03-03,,30400,22,F,3.6
+224,Almudena Díez-Sosa,Marketing,Responsable de Marketing,2024-09-08,,42910,31,F,2.9
+225,Modesta Salamanca,Ventas,Responsable de Ventas,2022-03-17,,42112,51,M,3.8
+226,Cipriano Ruano-Téllez,Ventas,Comercial Senior,2025-01-17,,32276,58,F,4.8
+227,Joel Oliveras Real,Marketing,Especialista de Marketing,2021-11-19,,26849,25,F,4.1
+228,Estrella Calvo Cuevas,Operaciones,Responsable de Operaciones,2023-05-19,,39730,50,M,3.0
+229,Guiomar Valbuena Maldonado,Operaciones,Responsable de Operaciones,2021-08-22,,39329,29,M,3.6
+230,Ruth Arco Sanz,Tecnología,Responsable de Tecnología,2023-09-24,,46518,41,F,3.1
+231,Fausto Iniesta Morales,Operaciones,Responsable de Operaciones,2021-04-23,2022-02-17,42064,41,F,2.2
+232,Rolando Quintero Vilar,Finanzas,Analista Senior,2022-08-16,,35911,22,M,2.6
+233,Nando Sevilla Reyes,Finanzas,Analista Financiero,2021-09-22,,27348,36,M,3.4
+234,Ciríaco Villegas Pardo,Ventas,Responsable de Ventas,2021-03-28,,41565,51,F,3.1
+235,Prudencia Leticia Salamanca Aznar,Marketing,Responsable de Marketing,2023-05-30,,44009,48,M,3.0
+236,Eliseo Castro,Ventas,Comercial Junior,2026-06-02,,25196,51,M,2.6
+237,Isidoro Valerio Tormo Carrión,Ventas,Comercial Junior,2022-05-14,,24941,47,F,4.4
+238,Maxi Heras Cuadrado,Atención al Cliente,Agente Senior,2025-03-08,,24352,43,F,2.8
+239,Leoncio Adrián Raya Buendía,Ventas,Responsable de Ventas,2021-08-22,,43961,34,M,3.3
+240,Sosimo de Serrano,Operaciones,Responsable de Operaciones,2025-07-28,,39993,28,F,3.7
+241,Moisés Correa Valentín,Operaciones,Técnico de Operaciones,2024-05-18,,23781,26,F,3.1
+242,José Manuel Patricio Llano Ribes,RRHH,Responsable de RRHH,2023-10-09,,40768,58,M,3.1
+243,Jovita Hervás Saura,Tecnología,Responsable de Tecnología,2024-08-09,,52788,42,M,3.1
+244,Blanca del Farré,Ventas,Comercial Junior,2023-08-19,,24741,41,M,4.9
+245,Liliana Piedad Cerezo Baños,Atención al Cliente,Agente Senior,2023-11-06,2025-08-27,25782,51,M,3.2
+246,Rolando Ribera-Nieto,Ventas,Comercial Senior,2025-08-31,,33734,27,M,2.9
+247,Débora Acedo,Atención al Cliente,Responsable de Atención al Cliente,2026-05-09,,33026,24,M,4.1
+248,Primitivo Eustaquio Tovar Comas,Marketing,Responsable de Marketing,2024-08-27,,41234,60,M,2.3
+249,Lupita Tomé Ochoa,Atención al Cliente,Agente de Soporte,2023-07-12,2024-07-06,21552,43,F,1.9
+250,Mamen Pi Sarabia,Atención al Cliente,Agente de Soporte,2021-03-22,2022-05-16,21513,50,M,3.5
+251,Tomasa Fabregat Haro,Atención al Cliente,Responsable de Atención al Cliente,2021-11-22,,36758,40,M,2.8
+252,Fátima Guillen-Reig,Atención al Cliente,Agente Senior,2024-10-22,,25733,43,F,3.8
+253,Federico Suárez Piquer,Operaciones,Responsable de Operaciones,2024-10-21,,43078,38,F,4.1
+254,Narcisa Cornejo Valbuena,Operaciones,Responsable de Operaciones,2024-09-21,2025-10-16,40234,44,M,2.8
+255,Bernardino Vallés Mármol,RRHH,Responsable de RRHH,2024-09-18,,42745,60,F,2.8
+256,Ulises Sacristán Cabo,Operaciones,Coordinador de Operaciones,2024-08-10,,30583,30,F,3.1
+257,Zaida Saura,Tecnología,Desarrollador Senior,2023-11-08,,39798,45,M,3.6
+258,Poncio Cobos Redondo,Operaciones,Técnico de Operaciones,2022-12-01,,24364,53,F,3.0
+259,Anselmo Soria Landa,Operaciones,Técnico de Operaciones,2021-11-14,2022-09-10,22684,28,F,3.1
+260,Matilde Puga Bernat,Tecnología,Responsable de Tecnología,2021-09-26,,50894,31,F,4.1
+261,Tamara Pinto Moliner,Operaciones,Responsable de Operaciones,2025-04-29,,42622,32,M,4.4
+262,Trini Araujo Bayona,Ventas,Comercial Senior,2024-10-17,,33344,50,M,2.3
+263,Maximiano del Gordillo,Finanzas,Analista Senior,2022-04-25,,36374,41,M,2.7
+264,Isaac Cabello Cabrera,Marketing,Especialista de Marketing,2023-01-24,,25072,58,M,3.5
+265,Carina Marí Andres,Atención al Cliente,Agente Senior,2025-05-13,,26557,55,M,2.8
+266,Fermín Barba Marcos,RRHH,Técnico de RRHH,2025-06-29,,22562,38,F,3.5
+267,Florentina Rosa Coello,Tecnología,Desarrollador Senior,2024-02-10,,43405,55,F,3.3
+268,Juan Manuel del Escolano,Operaciones,Técnico de Operaciones,2022-07-13,,23539,54,F,4.6
+269,Chucho Bermúdez Piñeiro,Marketing,Especialista de Marketing,2026-04-23,,25991,50,M,3.6
+270,Nilda Dalila Valenciano Clemente,RRHH,Especialista de RRHH,2021-04-20,,32015,45,F,3.6
+271,Jerónimo del Segura,Atención al Cliente,Agente de Soporte,2023-02-07,2023-07-07,22062,42,F,3.0
+272,Nazario Agustí-Sola,Marketing,Responsable de Marketing,2022-11-18,,41015,30,F,3.3
+273,Nilo Leandro Cruz Benavent,Operaciones,Coordinador de Operaciones,2024-11-26,,30565,52,M,4.2
+274,Fabiola Martínez Rodrigo,Tecnología,Desarrollador Junior,2021-02-08,,27307,31,M,4.5
+275,Javier Matas-Flor,Ventas,Comercial Senior,2022-05-02,,31789,25,F,3.1
+276,Tamara Tomas Campillo,Atención al Cliente,Responsable de Atención al Cliente,2023-07-26,2023-12-23,33793,53,F,3.2
+277,Graciano del Marqués,Tecnología,Responsable de Tecnología,2022-05-11,,53256,40,M,4.3
+278,Aitor Severino Priego Llobet,Ventas,Comercial Senior,2022-05-08,,30908,33,F,2.3
+279,Lorenzo Avilés Valdés,Atención al Cliente,Agente Senior,2021-05-19,,25826,56,F,2.6
+280,Román Salomón Grau Ortuño,Atención al Cliente,Agente Senior,2021-03-31,,25900,45,M,3.4
+281,Maximino de Iglesia,Finanzas,Analista Senior,2025-06-03,2025-10-01,35692,37,F,3.9
+282,Mauricio Caballero Ariza,Finanzas,Responsable Financiero,2025-03-30,,51697,24,M,4.2
+283,Rufino Isidro Aragonés Patiño,Atención al Cliente,Responsable de Atención al Cliente,2021-12-25,,35641,51,M,2.6
+284,Artemio Marquez Morillo,Tecnología,Desarrollador Junior,2021-05-10,,31573,51,F,3.4
+285,Carmelita Font Catalán,Operaciones,Técnico de Operaciones,2025-06-09,,23511,24,M,3.4
+286,Valentina del Valls,RRHH,Responsable de RRHH,2023-03-27,,41797,56,M,3.3
+287,Severo Córdoba-Jimenez,Operaciones,Responsable de Operaciones,2022-01-27,,40043,25,M,3.0
+288,Rosenda Marquez Nevado,Operaciones,Coordinador de Operaciones,2023-06-14,,30461,50,M,3.0
+289,Joaquín Benet Chico,Operaciones,Técnico de Operaciones,2023-10-14,,22905,45,M,3.5
+290,Tito del Paz,Finanzas,Responsable Financiero,2023-05-20,2024-03-15,51007,60,F,1.9
+291,Ruperto Prat Alcalá,Atención al Cliente,Agente Senior,2021-07-30,2021-11-27,25771,40,M,3.1
+292,Julio Casals-Sanz,Atención al Cliente,Responsable de Atención al Cliente,2023-05-23,2023-09-20,34962,50,M,3.1
+293,Nerea Juárez Piquer,Atención al Cliente,Responsable de Atención al Cliente,2025-11-17,,35907,49,M,3.7
+294,Asunción Guillen Soto,Tecnología,Desarrollador Junior,2021-06-03,,28227,47,M,3.3
+295,Martín Mosquera Giralt,Atención al Cliente,Responsable de Atención al Cliente,2024-10-23,2025-10-18,36962,23,F,2.6
+296,Maximino Simó Matas,Marketing,Responsable de Marketing,2025-05-20,,41713,30,F,3.7
+297,Azahar Chaves Arrieta,Operaciones,Responsable de Operaciones,2023-01-21,,38963,58,F,3.9
+298,Evaristo Ugarte Carmona,Tecnología,Responsable de Tecnología,2023-07-11,,51519,45,M,3.1
+299,Desiderio Cerdá Pont,Finanzas,Responsable Financiero,2021-10-09,,49421,47,M,3.7
+300,Flora Rius Cortes,Tecnología,Desarrollador Junior,2026-05-22,,28639,33,M,4.2
+301,Morena Cabeza Tovar,Atención al Cliente,Responsable de Atención al Cliente,2021-08-30,2022-01-27,36821,38,M,2.2
+302,Griselda Elisa Aparicio Pellicer,Operaciones,Responsable de Operaciones,2022-08-08,,43941,53,F,2.5
+303,Iván Sales,Ventas,Comercial Junior,2023-07-15,2024-01-11,23202,50,F,3.8
+304,Teófilo del Cabezas,Finanzas,Analista Senior,2024-09-29,,34292,26,M,4.6
+305,Macaria Palmer Barrera,Marketing,Especialista de Marketing,2024-12-28,,23765,33,M,4.6
+306,Eliana Falcó Carvajal,Atención al Cliente,Agente de Soporte,2022-02-16,,21140,37,M,3.3
+307,Apolonia Garay Almazán,Ventas,Responsable de Ventas,2024-03-18,,42091,57,F,3.7
+308,Rubén Múgica Hervia,Tecnología,Desarrollador Junior,2021-05-15,,28962,52,M,4.2
+309,Rubén Fuertes Bayona,Finanzas,Responsable Financiero,2021-06-01,,48228,42,F,3.5
+310,Claudia de Guijarro,Atención al Cliente,Responsable de Atención al Cliente,2023-11-26,,35515,57,F,3.4
+311,Remedios Coloma Acedo,Finanzas,Analista Financiero,2023-06-06,,28307,25,F,2.2
+312,Timoteo Coca-Castillo,Atención al Cliente,Agente Senior,2021-12-04,2022-04-03,26495,36,M,2.5
+313,Dionisia de Canet,RRHH,Responsable de RRHH,2026-01-07,,41651,27,M,2.3
+314,Blas Alcolea Palma,Operaciones,Responsable de Operaciones,2022-07-17,2024-01-08,42715,41,F,3.7
+315,Macario del Alcázar,Atención al Cliente,Agente de Soporte,2024-04-27,,21170,31,F,4.1
+316,Eligio Badía Castañeda,Tecnología,Responsable de Tecnología,2026-01-22,,55330,58,F,4.1
+317,Lucila Carballo Bartolomé,Marketing,Especialista de Marketing,2021-06-16,2021-08-15,24433,58,M,3.2
+318,Jacinta Paredes Vilanova,Tecnología,Responsable de Tecnología,2023-05-04,,52397,23,M,2.4
+319,Asunción Sans-Vara,Marketing,Responsable de Marketing,2022-08-17,,43371,41,M,2.3
+320,Marino de Vázquez,Operaciones,Responsable de Operaciones,2023-04-12,,39669,26,F,4.3
+321,Jenaro Modesto Anguita Barrera,Ventas,Comercial Senior,2023-09-19,,30821,43,F,3.8
+322,Soraya Querol Roldan,Operaciones,Responsable de Operaciones,2022-10-16,,38077,44,M,4.9
+323,Jose Luis Salcedo Beltrán,Ventas,Comercial Senior,2023-11-21,,31593,42,F,3.5
+324,Felipe Colomer Bastida,Atención al Cliente,Agente Senior,2023-07-10,2024-09-02,25616,28,F,3.5
+325,Emigdio Morcillo Piquer,Operaciones,Coordinador de Operaciones,2025-11-05,,33486,37,F,3.3
+326,Luisa Emilia Santiago Vega,Finanzas,Responsable Financiero,2025-01-16,,50298,32,M,2.9
+327,Irene Ariel Carbó Garrido,RRHH,Especialista de RRHH,2023-10-19,,31459,53,F,4.6
+328,Jennifer Gracia Riba,Ventas,Comercial Senior,2023-11-02,,31164,37,F,4.7
+329,Sarita Santana Pujadas,Atención al Cliente,Agente de Soporte,2021-04-14,2022-12-05,20625,60,M,2.6
+330,Pastora Bustamante Milla,Operaciones,Técnico de Operaciones,2025-10-02,,22894,30,M,3.2
+331,Estefanía Jara Perelló,Finanzas,Analista Senior,2023-01-20,2024-01-15,36827,25,F,4.1
+332,Olegario Sánchez Bautista,Operaciones,Coordinador de Operaciones,2021-05-31,,30639,50,M,4.0
+333,Severo Blázquez Buendía,Marketing,Responsable de Marketing,2024-10-25,,43427,30,F,4.3
+334,Ariadna Peralta Castillo,Atención al Cliente,Agente Senior,2024-02-17,,26708,31,F,3.1
+335,América del Carvajal,Tecnología,Desarrollador Senior,2023-10-22,2025-05-14,39716,24,F,3.5
+336,Felicidad Rocha Aznar,Tecnología,Desarrollador Senior,2023-11-30,,39452,60,F,2.5
+337,Marcelo Fabricio Ortiz Calleja,Operaciones,Responsable de Operaciones,2022-10-15,,39198,41,M,4.1
+338,Lilia Garcia-Cortes,Atención al Cliente,Responsable de Atención al Cliente,2023-12-27,,35947,58,M,3.9
+339,Consuelo Campoy Ordóñez,Atención al Cliente,Agente de Soporte,2023-01-25,,21018,29,M,3.4
+340,Flor de Lopez,Atención al Cliente,Responsable de Atención al Cliente,2025-11-22,,37251,23,M,3.0
+341,Coral Romeu-Amo,Operaciones,Responsable de Operaciones,2025-05-23,,41160,59,F,3.1
+342,Áurea Máxima Lastra Andres,Finanzas,Responsable Financiero,2023-09-11,,47131,46,F,3.2
+343,Elías Mendizábal Nicolás,Marketing,Especialista de Marketing,2021-03-06,,25685,29,F,3.1
+344,Adelaida Escudero Clemente,Ventas,Comercial Senior,2023-05-08,2025-08-25,30807,35,M,3.7
+345,Máxima Pérez-Baños,Atención al Cliente,Responsable de Atención al Cliente,2026-03-01,,33427,25,F,2.9
+346,Raimundo Anglada Bravo,Atención al Cliente,Responsable de Atención al Cliente,2022-10-28,,37391,52,M,4.0
+347,Concepción Peñalver,Operaciones,Técnico de Operaciones,2023-07-31,,23735,43,M,2.5
+348,Jenny Nogueira Criado,Tecnología,Responsable de Tecnología,2024-10-26,,53171,38,M,3.9
+349,Esperanza Morata Blazquez,Operaciones,Técnico de Operaciones,2022-07-26,,23539,36,M,4.3
+350,Casemiro Criado Ayala,Finanzas,Responsable Financiero,2022-03-01,,46633,53,M,3.0
+351,Elías Salazar Rodrigo,Atención al Cliente,Responsable de Atención al Cliente,2026-03-28,,32687,39,M,4.0
+352,María Dolores Salamanca Ribas,Ventas,Responsable de Ventas,2024-01-18,,43523,47,M,2.2
+353,Cándido Vila-Carbonell,RRHH,Técnico de RRHH,2022-08-18,2022-10-17,24149,27,M,3.2
+354,Irene Cantero Luque,RRHH,Responsable de RRHH,2022-06-10,,39483,35,F,2.8
+355,Lara Águila-Mendez,Marketing,Marketing Senior,2026-03-26,,31328,39,F,2.9
+356,Damián Prats Ballesteros,Ventas,Responsable de Ventas,2024-04-16,2025-04-11,43390,25,F,2.7
+357,Cristian Mata Galván,Tecnología,Desarrollador Junior,2021-07-25,,29682,52,F,3.3
+358,Roberto Jaume Mancebo,Tecnología,Desarrollador Junior,2021-01-11,,28174,32,M,5.0
+359,Azeneth Aguilera Valencia,Tecnología,Desarrollador Senior,2023-09-05,,37893,40,M,4.2
+360,Carmelita Castelló Pinto,Operaciones,Técnico de Operaciones,2026-02-03,,24850,58,F,2.3
+361,Ofelia de Vall,Atención al Cliente,Responsable de Atención al Cliente,2025-10-08,,36098,33,M,3.0
+362,Serafina del Bello,Marketing,Especialista de Marketing,2026-03-28,,25000,47,M,3.8
+363,Tere Arnal Rubio,Operaciones,Responsable de Operaciones,2026-05-25,,39961,40,F,3.1
+364,Jeremías Bermejo Millán,Ventas,Responsable de Ventas,2024-05-19,2025-04-14,45367,43,M,3.0
+365,Inés Quiroga-Rios,Atención al Cliente,Responsable de Atención al Cliente,2024-01-18,,34890,30,M,3.7
+366,Baudelio Hermenegildo Almansa Morcillo,Operaciones,Técnico de Operaciones,2022-11-09,,23039,51,M,3.8
+367,Salvador Seguí Paredes,Tecnología,Desarrollador Junior,2025-02-17,,29202,40,F,2.3
+368,Isaías Camacho Hervia,Ventas,Responsable de Ventas,2026-01-12,,45579,49,M,4.7
+369,Marita Pérez Zamora,Ventas,Responsable de Ventas,2021-07-15,2022-02-10,42353,30,M,3.8
+370,Hector Menéndez Nicolás,Operaciones,Técnico de Operaciones,2021-01-14,,24403,37,M,2.8
+371,Flavio de Benito,Finanzas,Analista Senior,2022-09-11,,36139,58,F,2.2
+372,Melisa Carbonell,Operaciones,Coordinador de Operaciones,2024-11-19,,29033,29,M,4.0
+373,Lina Ferrera,Operaciones,Coordinador de Operaciones,2024-11-06,,29390,41,F,2.8
+374,Felicia Coloma Guzman,Tecnología,Desarrollador Senior,2023-01-23,,38986,36,F,3.9
+375,Camilo Jaén Figueroa,Atención al Cliente,Agente Senior,2025-03-12,,25292,45,M,1.0
+376,Marcial Coronado Benet,Tecnología,Desarrollador Senior,2025-04-01,,37549,35,F,4.2
+377,Rolando Uribe Simó,Tecnología,Responsable de Tecnología,2025-11-24,,52686,55,M,4.3
+378,Pía Sanchez-Moraleda,Atención al Cliente,Agente Senior,2021-06-09,,25245,29,F,2.3
+379,Bárbara Sabater Bayo,Marketing,Responsable de Marketing,2022-02-19,,43193,31,F,3.6
+380,Isaura Mateo Llobet,Operaciones,Responsable de Operaciones,2023-06-24,2024-09-16,42367,35,M,3.8
+381,Amor Ortiz-Vera,Ventas,Responsable de Ventas,2023-07-02,,44777,51,F,4.2
+382,Fabián Serrano Sans,Atención al Cliente,Agente Senior,2024-02-29,,26432,51,M,3.1
+383,Ambrosio Peinado Madrid,Finanzas,Analista Senior,2022-06-06,,34888,35,F,2.9
+384,Mohamed Bosch Vendrell,Ventas,Comercial Senior,2024-12-05,2026-04-29,32038,25,F,4.3
+385,Joaquina Armengol Sandoval,RRHH,Especialista de RRHH,2021-03-06,,31722,33,F,3.4
+386,Modesta Fabra-Montoya,Finanzas,Responsable Financiero,2024-08-15,,45280,45,M,3.9
+387,Juanita Leyre Contreras Barrio,Atención al Cliente,Agente Senior,2023-02-09,2024-09-01,27442,56,F,3.6
+388,Aroa Nuñez Blasco,Tecnología,Desarrollador Senior,2021-08-31,,38331,56,M,3.8
+389,Mireia Duque,Atención al Cliente,Responsable de Atención al Cliente,2026-06-28,,36810,22,F,3.5
+390,Duilio Río Saavedra,RRHH,Especialista de RRHH,2024-10-11,,30979,49,M,3.5
+391,Lourdes Cuenca,Marketing,Especialista de Marketing,2023-08-02,,26394,39,F,2.7
+392,Florencia Luna Ponce,RRHH,Responsable de RRHH,2025-04-17,,41699,48,F,2.9
+393,Remedios Neira Badía,Operaciones,Técnico de Operaciones,2021-07-26,,24495,50,F,2.3
+394,Ana Sofía Murcia Busquets,Operaciones,Técnico de Operaciones,2023-04-04,,23034,56,F,3.7
+395,Nidia del Luz,Finanzas,Analista Financiero,2021-10-14,,29565,40,F,3.4
+396,Porfirio Conesa-Mínguez,Finanzas,Responsable Financiero,2024-03-25,,46889,60,M,4.7
+397,Lupe Cid Olmo,Operaciones,Técnico de Operaciones,2024-09-14,,22293,48,M,1.9
+398,Nacio Paco Pou Castelló,Operaciones,Responsable de Operaciones,2026-04-27,,41733,33,M,3.0
+399,Olga Anselma Menendez Peñas,Atención al Cliente,Agente de Soporte,2026-06-15,,20319,46,M,3.9
+400,Ruth Castell Zurita,Tecnología,Desarrollador Senior,2021-11-02,,39406,33,M,3.0
+401,Mohamed Roda Verdugo,Operaciones,Técnico de Operaciones,2022-09-08,,22433,31,M,4.0
+402,Agustina Pareja Mendizábal,Marketing,Responsable de Marketing,2023-04-26,,43475,57,F,3.3
+403,Custodio Noguera Torre,Atención al Cliente,Agente Senior,2022-02-21,,27231,27,M,2.7
+404,Daniel Cervantes,Marketing,Especialista de Marketing,2024-01-02,,24228,34,F,2.9
+405,Antonio Marqués Cadenas,Operaciones,Responsable de Operaciones,2024-05-23,,40924,26,F,3.6
+406,Regina Zurita,Finanzas,Responsable Financiero,2025-01-23,,47517,35,M,3.6
+407,Natalio Navarro Castro,Operaciones,Coordinador de Operaciones,2022-09-13,,29039,22,F,4.4
+408,Florina Calista Cámara Escrivá,RRHH,Responsable de RRHH,2021-08-29,,41376,52,F,4.2
+409,Rufina Yaiza Daza Río,Tecnología,Responsable de Tecnología,2022-02-23,,52685,37,M,3.7
+410,Hernán Pastor Gámez,Finanzas,Analista Senior,2023-08-13,,36759,44,M,3.7
+411,María Jesús López Sanchez,Operaciones,Responsable de Operaciones,2025-12-13,,42071,28,M,4.3
+412,Juanito de Mendoza,Finanzas,Analista Senior,2026-02-16,,36262,42,M,3.9
+413,Yaiza Ferrera Pedro,Ventas,Comercial Junior,2025-02-27,2026-01-23,25700,38,M,3.7
+414,Isabela Serrano-Luján,Operaciones,Técnico de Operaciones,2022-11-07,,22868,58,F,2.4
+415,Lidia Álamo Riquelme,Atención al Cliente,Responsable de Atención al Cliente,2026-04-17,,35578,38,M,2.9
+416,Sebastian Flores Chacón,RRHH,Responsable de RRHH,2025-02-23,,41478,32,M,2.3
+417,Amancio Terrón-Pera,Ventas,Responsable de Ventas,2024-01-25,,43941,56,F,3.0
+418,Aroa de López,Atención al Cliente,Agente de Soporte,2026-04-20,,21663,25,F,3.2
+419,Rico Cueto Llamas,Atención al Cliente,Responsable de Atención al Cliente,2022-04-19,2023-04-14,35396,31,F,1.7
+420,Yolanda Vilanova Colom,Operaciones,Coordinador de Operaciones,2023-02-04,2023-05-05,31387,52,M,3.7
+421,Apolonia Girona Sanmartín,Ventas,Responsable de Ventas,2024-02-04,,43798,23,M,3.4
+422,Íngrid Amor Ribera,Atención al Cliente,Agente Senior,2021-02-05,,25619,49,F,3.2
+423,Hector Vallés Pereira,Ventas,Comercial Junior,2023-12-10,2024-09-05,24496,34,M,2.6
+424,Guadalupe de Perera,Finanzas,Analista Senior,2025-06-17,,38004,45,M,4.0
+425,Alberto del Cabeza,Atención al Cliente,Agente de Soporte,2024-11-28,2025-09-24,21017,27,F,2.8
+426,Rosa María Coll Cervantes,Ventas,Comercial Senior,2023-02-12,,32050,25,F,3.2
+427,Eric Sureda Chamorro,Tecnología,Desarrollador Junior,2023-10-21,,28913,43,F,3.3
+428,Jacinta Adadia Bernad,Marketing,Especialista de Marketing,2022-04-16,,24890,58,M,3.5
+429,Eduardo Garriga Conde,Operaciones,Técnico de Operaciones,2024-11-02,,22614,56,F,4.1
+430,Pascuala del Cantero,Ventas,Comercial Senior,2021-02-02,,32831,59,F,3.1
+431,Diego Eutropio Carro Asenjo,Finanzas,Responsable Financiero,2025-08-09,,47110,26,M,3.6
+432,Hugo del Barros,Ventas,Comercial Junior,2024-03-06,,23834,46,M,4.7
+433,Silvio Valero Alegre,Atención al Cliente,Responsable de Atención al Cliente,2021-10-14,,36477,27,M,3.7
+434,Maricela Herranz,Ventas,Comercial Senior,2022-04-21,,32908,43,M,3.0
+435,Esteban Román Abellán,RRHH,Especialista de RRHH,2021-03-02,,32770,50,M,3.5
+436,Feliciana Dalila Riera Exposito,Operaciones,Responsable de Operaciones,2026-04-12,,42583,33,M,3.3
+437,Juan Francisco Palomo Bauzà,Ventas,Responsable de Ventas,2022-08-28,,45195,26,F,3.7
+438,Macaria Vera,Operaciones,Coordinador de Operaciones,2024-12-28,,33046,31,M,3.1
+439,Manola Almagro,Operaciones,Técnico de Operaciones,2021-07-07,2022-08-31,22957,41,M,3.1
+440,Trinidad Soriano Arranz,Operaciones,Coordinador de Operaciones,2021-07-29,2022-05-25,30994,33,M,2.7
+441,Florentina Izaguirre Alegre,Atención al Cliente,Responsable de Atención al Cliente,2023-11-16,,35294,23,F,3.8
+442,Rocío Bauzà Ochoa,Operaciones,Técnico de Operaciones,2024-05-07,,24441,42,M,5.0
+443,Quique de Márquez,Ventas,Comercial Senior,2023-03-06,,31871,57,F,2.7
+444,Alfredo Ortuño Nevado,Atención al Cliente,Agente de Soporte,2024-11-04,,21502,30,M,2.6
+445,Severo Sobrino Tejero,Operaciones,Coordinador de Operaciones,2021-10-26,2023-04-19,30199,49,M,2.2
+446,Santiago Cepeda Barroso,Atención al Cliente,Agente Senior,2025-05-22,,26431,38,F,2.1
+447,Alicia Marcos Fortuny,Finanzas,Analista Senior,2024-05-01,,34797,51,F,2.3
+448,Ruy Flores Arnaiz,Ventas,Comercial Junior,2026-04-28,,26168,46,M,3.3
+449,Úrsula Menéndez Villalba,Atención al Cliente,Agente Senior,2025-07-29,,27187,60,F,2.3
+450,Sabina Sáenz Isern,Operaciones,Responsable de Operaciones,2026-04-25,,40045,52,M,4.0
+451,Renato Feijoo Macias,Ventas,Comercial Senior,2026-06-07,,32239,53,F,3.8
+452,Tere Asenjo Mármol,Operaciones,Coordinador de Operaciones,2025-07-31,,29037,45,F,4.4
+453,Bernabé Pedro-Rueda,RRHH,Técnico de RRHH,2024-04-27,,25147,33,F,3.7
+454,Perlita Sabater Pomares,RRHH,Especialista de RRHH,2026-04-16,,30700,50,M,3.6
+455,Cayetana Valderrama Valencia,Marketing,Especialista de Marketing,2025-08-05,,25257,48,M,2.2
+456,Ángela Vives Lasa,Ventas,Comercial Senior,2022-05-11,2023-05-06,33028,31,M,1.4
+457,Prudencio Rodriguez Bermúdez,Finanzas,Analista Financiero,2023-07-09,,29148,52,M,2.2
+458,María Cristina Escribano Marin,Atención al Cliente,Responsable de Atención al Cliente,2023-05-07,,35516,45,F,2.6
+459,Aroa Bernal Mosquera,Ventas,Comercial Junior,2024-09-08,,23421,32,F,4.2
+460,Ezequiel Jacinto Rojas Diaz,Atención al Cliente,Responsable de Atención al Cliente,2024-10-19,,35376,43,M,3.6
+461,Felicia Salvador Arnal,Ventas,Comercial Junior,2022-06-14,2023-06-09,24897,55,F,1.9
+462,María Luisa Royo Llobet,Atención al Cliente,Agente Senior,2023-08-07,,26169,59,F,3.2
+463,Anselmo Ramis Parra,Operaciones,Técnico de Operaciones,2023-09-16,2025-12-04,24750,48,F,4.0
+464,Rosario Cuesta,Ventas,Responsable de Ventas,2021-10-18,,42418,43,M,3.2
+465,Calixto Ríos Arana,Finanzas,Responsable Financiero,2023-09-17,,47356,28,M,4.9
+466,Anastasio Guzman Pazos,Finanzas,Analista Senior,2022-10-16,2024-02-08,36573,24,F,3.2
+467,Fátima Antúnez Corral,Ventas,Comercial Senior,2024-08-20,2025-12-13,31904,32,F,3.4
+468,Flora Peral Saldaña,Atención al Cliente,Responsable de Atención al Cliente,2021-11-24,,36970,49,M,3.4
+469,Luciano Cervantes Ávila,Operaciones,Coordinador de Operaciones,2024-07-13,,31354,49,M,3.3
+470,Gisela Miralles Lopez,Ventas,Responsable de Ventas,2025-12-14,,39669,59,M,3.5
+471,Baudelio de Estrada,Atención al Cliente,Responsable de Atención al Cliente,2022-03-16,2023-08-08,37330,26,F,1.4
+472,Lorenza Pombo Carranza,Finanzas,Responsable Financiero,2022-01-18,,52176,34,M,3.3
+473,Roldán Juliá-Salmerón,Ventas,Responsable de Ventas,2025-11-02,,44846,42,M,2.7
+474,Mariano Machado,Tecnología,Responsable de Tecnología,2021-08-22,,53225,51,F,2.7
+475,Chus Casado Cerdá,Finanzas,Responsable Financiero,2025-06-28,,46752,59,F,4.7
+476,Jaime Duque Salgado,Tecnología,Desarrollador Senior,2021-08-30,,38682,29,F,3.6
+477,Sandalio Montenegro Olivera,Operaciones,Técnico de Operaciones,2023-11-13,,24225,60,F,3.7
+478,Leonardo Manrique Marín,Atención al Cliente,Agente Senior,2022-01-16,,26100,56,F,3.7
+479,Pelayo Dávila Pardo,Atención al Cliente,Agente Senior,2022-08-15,,25961,42,M,3.1
+480,Consuelo Carrión,Tecnología,Desarrollador Senior,2026-05-04,,40842,30,F,4.2
+481,Ruy Chamorro,Finanzas,Responsable Financiero,2023-11-02,,49277,48,M,2.6
+482,Ruperto del Amo,Atención al Cliente,Agente Senior,2023-09-28,2026-07-14,25235,58,F,4.1
+483,Manola Peinado Solsona,Finanzas,Analista Financiero,2022-08-22,2023-06-18,29613,36,M,3.7
+484,Belén de Bastida,Ventas,Comercial Senior,2024-03-04,,31674,53,F,4.1
+485,Heliodoro Plinio Tejero Zaragoza,Atención al Cliente,Agente Senior,2025-05-07,,26792,45,F,2.5
+486,Rebeca Recio Benavent,Finanzas,Analista Senior,2024-01-24,,36796,49,F,3.9
+487,Federico Benavent Sandoval,Finanzas,Responsable Financiero,2025-03-19,,47404,24,M,4.4
+488,Nieves Villar Ocaña,Operaciones,Técnico de Operaciones,2023-06-19,,23374,29,F,3.5
+489,Valentín Espada Castelló,Operaciones,Responsable de Operaciones,2024-04-19,,40711,49,F,3.4
+490,Lidia Baquero Casanova,Tecnología,Desarrollador Junior,2025-07-25,,27903,25,M,2.4
+491,Calista Mateu,Atención al Cliente,Responsable de Atención al Cliente,2024-01-09,,34870,40,M,2.3
+492,Cecilio Mora Gomis,Atención al Cliente,Responsable de Atención al Cliente,2026-01-18,,35595,28,F,2.5
+493,Lorenza Luz Bermúdez,RRHH,Especialista de RRHH,2026-02-25,,33415,39,F,4.1
+494,Clímaco Llobet-Casares,Tecnología,Desarrollador Junior,2022-05-27,,28311,42,F,5.0
+495,Marino Juanito Bueno Valverde,Finanzas,Responsable Financiero,2023-03-16,,49963,58,M,3.2
+496,Manu Correa Donoso,Tecnología,Desarrollador Senior,2023-07-15,2023-08-14,42818,27,M,2.6
+497,Pacífica Xiomara Nebot Armengol,Atención al Cliente,Agente Senior,2024-11-23,,24978,45,M,4.4
+498,Apolinar Arroyo Landa,RRHH,Especialista de RRHH,2024-04-06,2024-06-05,33114,27,M,3.8
+499,Rodolfo Riera,Tecnología,Responsable de Tecnología,2023-01-04,,53189,56,M,4.0
+500,Micaela Ale Valenciano Manjón,Operaciones,Coordinador de Operaciones,2025-08-17,,31385,39,M,3.6
+501,Jose Antonio Donato Ramis Martorell,Marketing,Marketing Senior,2024-01-26,,32621,58,M,3.4
+502,Angelina Barreda Cruz,Finanzas,Responsable Financiero,2025-04-11,2025-11-07,47438,28,M,2.8
+503,Herminia Tomé Sobrino,Ventas,Comercial Junior,2023-06-23,,23679,49,F,4.1
+504,Francisco Cobo,RRHH,Técnico de RRHH,2025-12-12,,23985,32,M,2.1
+505,Tere Montaña Ojeda,Ventas,Comercial Senior,2022-05-28,2023-09-20,30680,32,F,4.1
+506,Belén Pellicer Villa,Atención al Cliente,Agente Senior,2025-01-26,,25345,36,M,3.2
+507,Ascensión del Herranz,Tecnología,Responsable de Tecnología,2021-07-14,2023-01-05,50063,52,F,4.7
+508,Azucena Lastra Sancho,Ventas,Comercial Junior,2023-11-30,,24685,22,F,3.5
+509,Calisto de Ayuso,Tecnología,Desarrollador Junior,2025-10-28,,28062,30,M,4.4
+510,Gregorio Toni Ripoll Hurtado,Ventas,Comercial Senior,2021-07-02,,31899,28,F,3.0
+511,Santos Morán Milla,Operaciones,Coordinador de Operaciones,2021-10-08,,30574,30,F,3.7
+512,Rico Cuervo,Ventas,Responsable de Ventas,2021-01-18,,43232,32,M,4.2
+513,Lola Solera Valenzuela,Operaciones,Técnico de Operaciones,2024-07-10,,23819,48,M,3.2
+514,Jose Ramón Aitor Bosch Pozuelo,Marketing,Especialista de Marketing,2026-01-11,,24331,29,M,4.6
+515,Jesusa Hernando,Operaciones,Coordinador de Operaciones,2022-10-07,,29048,37,M,2.9
+516,Lupe Osorio,Tecnología,Desarrollador Junior,2024-02-08,,28281,60,M,4.0
+517,Amador Lucena Uría,Finanzas,Responsable Financiero,2021-02-24,,47410,41,F,4.3
+518,Vera Soledad Sosa Macias,Atención al Cliente,Responsable de Atención al Cliente,2022-01-22,,35102,40,F,3.6
+519,Adelia de Rosa,Finanzas,Analista Financiero,2023-10-11,,27164,37,M,4.9
+520,Valero Lamas Paz,Tecnología,Desarrollador Junior,2023-12-18,,27812,22,M,3.6
+521,Flavia Arrieta Pérez,RRHH,Técnico de RRHH,2023-03-04,,25028,58,M,3.7
+522,Lucas Ferreras Pareja,Operaciones,Responsable de Operaciones,2021-12-20,,40691,26,F,3.3
+523,Elvira de Pomares,Atención al Cliente,Agente de Soporte,2022-06-21,2023-07-16,20901,25,M,2.3
+524,Javiera Losa,Atención al Cliente,Responsable de Atención al Cliente,2024-12-30,,36357,48,M,4.4
+525,Nieves María Jesús Carrera Castells,Tecnología,Desarrollador Junior,2024-08-04,,27314,31,M,3.6
+526,Haroldo Perea Nicolau,Ventas,Comercial Junior,2023-11-14,,24498,31,M,3.7
+527,Flavia de Flor,Atención al Cliente,Responsable de Atención al Cliente,2025-04-13,,34970,26,M,2.4
+528,Liliana Gracia Vall Arjona,Tecnología,Responsable de Tecnología,2026-05-07,,48173,25,F,4.1
+529,Alejo Cerro Mínguez,Ventas,Comercial Senior,2021-08-26,,33472,60,F,3.6
+530,Lorenza Saura Company,Operaciones,Responsable de Operaciones,2024-09-09,,40109,29,F,2.3
+531,Virginia Lola Chaves Mosquera,Tecnología,Responsable de Tecnología,2021-01-24,,53126,44,M,2.6
+532,Esther Candelas Pozo Martínez,Ventas,Comercial Junior,2025-03-16,,23907,39,F,3.0
+533,Evangelina Vendrell-Vergara,Finanzas,Analista Financiero,2022-11-18,,27802,39,F,2.9
+534,Laura del Taboada,Operaciones,Responsable de Operaciones,2024-07-09,2025-07-04,41389,51,M,2.3
+535,Gerónimo Muñoz Canals,Ventas,Responsable de Ventas,2021-12-08,,43551,38,F,4.0
+536,Marisela Mena Amor,Marketing,Responsable de Marketing,2025-01-20,2025-03-21,43061,54,F,3.9
+537,Juana Dulce Goñi Aznar,Ventas,Comercial Junior,2022-05-16,2025-08-28,23912,45,M,3.4
+538,Julia Donaire-Zamora,RRHH,Técnico de RRHH,2026-03-23,,24965,24,M,3.5
+539,Remedios Sol Pinto Coloma,Operaciones,Técnico de Operaciones,2023-05-03,,23948,42,M,2.8
+540,Alcides de Farré,Marketing,Responsable de Marketing,2023-02-03,2024-03-29,40379,25,F,4.5
+541,Isidro Mir Riquelme,Operaciones,Responsable de Operaciones,2026-07-03,,42818,47,F,3.8
+542,Hilario Frías Reguera,Marketing,Marketing Senior,2025-05-04,,31225,42,F,3.2
+543,Remedios Soto,Atención al Cliente,Agente de Soporte,2023-01-26,2025-04-15,21094,58,M,2.9
+544,Patricio Cervera Villena,Finanzas,Analista Financiero,2023-08-09,,28225,53,F,3.0
+545,Lisandro Morcillo,Finanzas,Responsable Financiero,2025-04-07,,48723,31,F,3.8
+546,Lucila Peñas Mir,RRHH,Técnico de RRHH,2022-04-23,,24985,22,M,2.7
+547,Jeremías Noriega Pablo,Ventas,Responsable de Ventas,2023-02-10,,41517,41,F,2.9
+548,Marcos Tomé-Fernandez,Operaciones,Técnico de Operaciones,2023-05-10,,23300,25,F,3.5
+549,Emilio del Gomila,Tecnología,Desarrollador Junior,2021-03-31,,29708,55,M,2.8
+550,Rogelio Ernesto Galan Torrijos,Tecnología,Desarrollador Senior,2023-07-28,,36331,27,F,4.9
+551,Julia Oller Llanos,Atención al Cliente,Responsable de Atención al Cliente,2025-08-07,,34491,59,F,4.0
+552,Benjamín Luciano Pino Prat,Atención al Cliente,Agente de Soporte,2022-04-30,2023-04-25,21054,42,M,3.3
+553,Reina Coll Manrique,Tecnología,Responsable de Tecnología,2022-10-31,,53838,39,F,3.2
+554,Ernesto Bermúdez Olivares,Ventas,Comercial Junior,2021-10-06,,24722,59,F,3.6
+555,Morena Jerez Tello,Ventas,Comercial Junior,2023-07-10,,23943,48,F,4.1
+556,Cosme Linares,Atención al Cliente,Agente de Soporte,2023-07-15,2024-06-09,20496,38,F,2.7
+557,Obdulia del Cervantes,Ventas,Responsable de Ventas,2022-09-16,,45188,60,F,3.4
+558,Mario Heras Herrera,Operaciones,Coordinador de Operaciones,2021-10-31,2022-12-25,30470,37,M,4.0
+559,Nicanor Gonzalez Guerrero,Atención al Cliente,Agente de Soporte,2024-10-18,,21371,33,F,1.6
+560,Aureliano Reyes Murillo,RRHH,Especialista de RRHH,2024-02-13,,31574,37,F,3.1
+561,Armida Cervantes Adadia,Atención al Cliente,Agente de Soporte,2021-09-06,2022-02-03,21037,36,F,3.8
+562,Áurea de Ramírez,Operaciones,Coordinador de Operaciones,2023-02-02,,30417,27,M,3.7
+563,Judith Flores Madrigal,Marketing,Especialista de Marketing,2021-02-14,,25553,34,M,2.0
+564,Eloísa Barranco Borrás,Finanzas,Analista Financiero,2026-01-28,,27060,43,F,3.3
+565,Cristina Arcos-Díez,Ventas,Comercial Senior,2021-04-14,2021-08-12,32799,58,M,2.7
+566,Vera Echeverría Arce,Marketing,Marketing Senior,2023-10-14,2025-02-05,32250,49,F,4.4
+567,Rocío Valbuena Estrada,Operaciones,Técnico de Operaciones,2022-07-18,,23623,31,F,3.2
+568,Urbano Alejo Agullo Martín,Tecnología,Responsable de Tecnología,2022-05-19,,50773,53,M,3.2
+569,María Cristina Campo-Naranjo,Marketing,Marketing Senior,2021-05-05,2022-01-30,32698,46,F,2.3
+570,Javi Miguel Ángel Zamora Uribe,Atención al Cliente,Responsable de Atención al Cliente,2025-12-17,,37216,37,F,3.7
+571,Teodoro Varela Solé,RRHH,Responsable de RRHH,2023-01-06,,44933,53,M,2.7
+572,Clemente Capdevila-Muro,Marketing,Responsable de Marketing,2022-10-21,,42186,33,F,3.3
+573,Pío Segarra Jimenez,Operaciones,Técnico de Operaciones,2021-03-02,,24324,39,F,3.0
+574,Adrián Navas Marquez,Finanzas,Analista Senior,2023-12-21,,34438,59,F,4.2
+575,Nereida Ferrando-Echevarría,RRHH,Técnico de RRHH,2022-05-23,,24236,39,F,4.0
+576,Tatiana Micaela Ramirez Roma,Finanzas,Analista Financiero,2024-03-25,,28762,46,M,3.4
+577,Eugenia Bolaños,RRHH,Técnico de RRHH,2021-12-27,,24354,42,M,3.1
+578,Nayara Bustos Esteban,Marketing,Especialista de Marketing,2024-12-11,,25487,58,F,4.0
+579,Jorge Morales Hurtado,Atención al Cliente,Agente de Soporte,2025-09-10,,20469,53,M,3.5
+580,Eladio Pla Gutiérrez,Ventas,Comercial Junior,2021-07-04,2021-12-01,24487,60,F,3.8
+581,Primitiva Lasa Murcia,Ventas,Comercial Senior,2021-01-02,,32159,34,F,2.7
+582,Lupe Porfirio Alberdi Jurado,Operaciones,Técnico de Operaciones,2026-02-25,,24497,42,F,3.3
+583,Nydia Guzman Barrios,Ventas,Responsable de Ventas,2024-12-14,,42954,29,M,2.7
+584,Joan Melero Cuesta,RRHH,Especialista de RRHH,2024-12-13,,30982,47,F,2.8
+585,Noelia Valverde Mercader,Operaciones,Coordinador de Operaciones,2021-10-07,,30298,49,M,4.6
+586,Miguel Marquez Pedrero,Tecnología,Desarrollador Junior,2024-12-19,,27628,44,F,2.3
+587,Consuela Constanza Cañellas Tejera,Tecnología,Desarrollador Junior,2023-02-14,,30471,40,F,3.3
+588,Javi Pereira Ricart,Ventas,Comercial Junior,2026-04-28,,23942,58,M,4.1
+589,Zaira del Gil,Marketing,Responsable de Marketing,2021-03-08,,41591,42,F,4.7
+590,Noé de Zaragoza,Tecnología,Desarrollador Junior,2026-04-03,,29677,43,F,3.1
+591,Lucía Pardo Bermejo,Operaciones,Coordinador de Operaciones,2021-12-10,,33016,27,M,3.0
+592,Aurelia Barrio-Vega,Atención al Cliente,Agente Senior,2022-03-06,2023-10-27,26199,26,M,3.0
+593,Luciano Conde,Operaciones,Técnico de Operaciones,2025-01-15,2026-03-11,23883,46,M,2.9
+594,Fernando Viña Sala,Finanzas,Analista Financiero,2025-12-17,,30013,46,M,3.5
+595,Noé Fuertes Torrijos,Atención al Cliente,Agente de Soporte,2025-08-25,,20756,58,F,3.5
+596,Vinicio Vicens Salinas,Ventas,Comercial Junior,2025-06-25,,23377,40,F,2.7
+597,Javi Catalán Vilanova,Operaciones,Técnico de Operaciones,2021-06-01,,24500,46,F,2.9
+598,Jessica Barco Sevilla,Finanzas,Responsable Financiero,2026-04-13,,45906,27,M,3.8
+599,Porfirio Aitor Priego Iñiguez,Atención al Cliente,Responsable de Atención al Cliente,2026-01-04,,37580,23,M,3.9
+600,Ramón Gibert Beltran,RRHH,Técnico de RRHH,2024-05-28,,25330,32,F,2.9
+601,Héctor Ocaña Bartolomé,Ventas,Comercial Junior,2026-06-19,,25751,57,M,3.6
+602,América de Suarez,Tecnología,Desarrollador Senior,2022-05-02,2022-10-29,39759,47,M,4.9
+603,Eric Rebollo Escolano,Ventas,Comercial Senior,2021-01-08,,31141,40,M,4.0
+604,Rodolfo Rivera Perelló,Operaciones,Técnico de Operaciones,2022-02-28,,23547,40,F,3.6
+605,Jacinta Pina Peña,Atención al Cliente,Agente de Soporte,2022-09-24,,22018,52,M,3.8
+606,Néstor Cañas Oliveras,Marketing,Marketing Senior,2021-07-06,,33128,46,F,4.2
+607,Chuy Pozo Ángel,Operaciones,Coordinador de Operaciones,2023-01-27,,30074,24,M,2.8
+608,Prudencio Gisbert Acevedo,Atención al Cliente,Agente Senior,2022-04-09,,25303,58,F,2.0
+609,Eustaquio Sierra Rodrigo,Ventas,Responsable de Ventas,2024-09-28,2025-02-25,42631,44,M,3.2
+610,Fortunata de Huertas,RRHH,Responsable de RRHH,2022-04-11,,41961,46,M,4.0
+611,Fanny Cortina Llorens,RRHH,Responsable de RRHH,2025-11-11,,42790,58,F,3.0
+612,Urbano Carbajo,Atención al Cliente,Agente de Soporte,2023-03-20,,20888,24,F,3.6
+613,Sandalio Rius Alcázar,Ventas,Comercial Senior,2021-12-21,,31668,32,F,4.5
+614,Cristian de Cabrero,Finanzas,Analista Financiero,2021-03-29,,28490,49,F,3.9
+615,Alexandra Itziar Atienza Hierro,RRHH,Responsable de RRHH,2021-10-30,,42494,38,M,4.2
+616,Herberto Ródenas Guillén,Marketing,Especialista de Marketing,2021-06-28,,25650,47,M,2.5
+617,Concha de Chaves,Marketing,Responsable de Marketing,2023-07-28,,43099,22,M,2.9
+618,Ema Guillén,Ventas,Comercial Junior,2021-10-31,,24059,59,F,3.8
+619,Esther Montes-Gálvez,RRHH,Responsable de RRHH,2025-05-16,,43357,40,M,3.4
+620,Urbano Calixto Vázquez Giner,Marketing,Marketing Senior,2023-02-24,,32860,58,M,4.6
+621,Emperatriz Llopis Barrera,Ventas,Comercial Senior,2023-04-06,2024-05-30,35468,60,M,4.7
+622,Marta de Roldán,Ventas,Comercial Senior,2024-11-15,2026-06-08,33719,52,M,3.9
+623,Leocadia de Ocaña,Marketing,Especialista de Marketing,2022-11-23,,25384,41,M,2.5
+624,Roberta Zamorano Montalbán,Operaciones,Coordinador de Operaciones,2025-10-24,,30256,28,F,2.8
+625,Guadalupe Company Marín,Ventas,Responsable de Ventas,2023-06-27,,42032,42,M,3.8
+626,Catalina Sáenz Hernando,Finanzas,Responsable Financiero,2024-08-15,,48789,50,F,3.0
+627,Eutimio de Sierra,Marketing,Marketing Senior,2025-02-26,,31204,55,M,3.6
+628,Lisandro Rey Riera,Marketing,Responsable de Marketing,2025-06-09,,44682,41,M,2.4
+629,Luisa de Pont,Ventas,Responsable de Ventas,2025-12-06,,41156,33,F,3.1
+630,Edu de Murillo,Marketing,Especialista de Marketing,2025-09-11,2026-03-10,26939,24,M,3.1
+631,Íñigo Sandoval Peláez,Ventas,Comercial Senior,2024-12-14,2026-02-07,33243,45,M,4.6
+632,Julio Farré Aznar,Atención al Cliente,Responsable de Atención al Cliente,2026-03-06,,33965,23,F,4.3
+633,Gonzalo Ariza-Beltran,Operaciones,Responsable de Operaciones,2023-07-03,,40080,52,M,5.0
+634,Samu Gaya,Operaciones,Coordinador de Operaciones,2025-03-14,,29841,27,M,3.5
+635,Claudia Méndez Mateo,Ventas,Comercial Junior,2021-11-30,,25785,35,F,4.8
+636,Curro Falcón Carpio,Tecnología,Responsable de Tecnología,2022-02-28,,56123,48,F,4.2
+637,Zoraida Herrera Fuente,Marketing,Responsable de Marketing,2021-01-19,,44036,30,F,3.8
+638,Zoraida Heras Montoya,Tecnología,Desarrollador Junior,2022-04-04,,29778,41,M,3.0
+639,Goyo Joan Palomar Mendez,Atención al Cliente,Agente Senior,2025-10-11,,25454,38,F,3.4
+640,Geraldo Vilalta-Valencia,Atención al Cliente,Responsable de Atención al Cliente,2023-12-03,,35773,47,F,3.1
+641,Ariel Soria Montero,Ventas,Responsable de Ventas,2026-06-03,,44160,45,M,4.1
+642,Gil Milla,Operaciones,Técnico de Operaciones,2023-09-14,2024-10-08,24731,39,M,3.1
+643,Amalia Giralt Coello,Marketing,Marketing Senior,2024-09-05,,31466,41,F,2.8
+644,Eladio Rios Marquez,Ventas,Comercial Junior,2026-01-17,,25761,60,M,3.8
+645,Clímaco Murcia Grau,Tecnología,Responsable de Tecnología,2021-10-14,,49951,53,M,4.7
+646,Mariana Hoyos Valera,Operaciones,Coordinador de Operaciones,2023-04-09,,31924,24,F,3.8
+647,Morena del Jiménez,Operaciones,Responsable de Operaciones,2022-04-01,,40622,52,M,2.7
+648,Paloma Trujillo Serna,Atención al Cliente,Agente de Soporte,2025-09-18,,20751,57,F,4.2
+649,Quique Ortuño Dominguez,Operaciones,Coordinador de Operaciones,2021-09-20,,32698,57,F,4.5
+650,Plácido Torres Espejo,RRHH,Especialista de RRHH,2024-09-02,,30929,44,F,2.6
+651,Miguela de Zamora,Finanzas,Analista Senior,2023-05-12,,36187,43,M,2.2
+652,Simón Benavente Atienza,Operaciones,Coordinador de Operaciones,2023-08-08,,30877,52,F,3.3
+653,Hilario Cervantes Guardia,Marketing,Responsable de Marketing,2024-04-03,,41800,26,M,2.3
+654,Paulino Corbacho Agullo,Marketing,Responsable de Marketing,2021-09-03,,43270,46,M,3.0
+655,José Antonio Sarmiento,Atención al Cliente,Agente de Soporte,2021-10-09,,20220,43,M,1.4
+656,América Tomas Torrents,RRHH,Especialista de RRHH,2021-10-21,,31467,33,F,4.6
+657,Abraham Reina Albero,Atención al Cliente,Responsable de Atención al Cliente,2021-12-29,2024-11-13,35390,25,F,3.6
+658,Juan Manuel Llobet Madrid,Atención al Cliente,Agente de Soporte,2025-04-08,,20268,58,F,3.7
+659,José Ros Escobar,Atención al Cliente,Agente de Soporte,2021-09-23,,20617,49,M,3.6
+660,Ángel Bárcena Zamora,Atención al Cliente,Agente Senior,2023-02-25,2024-03-21,25933,56,F,3.3
+661,Dionisio Fernandez Zurita,Finanzas,Analista Financiero,2026-01-01,,27122,55,F,2.8
+662,Saturnino Pablo-Lastra,Ventas,Comercial Junior,2024-07-07,,24311,36,M,3.7
+663,Ani Perea Ramis,Operaciones,Técnico de Operaciones,2023-02-25,,24261,41,F,2.8
+664,Marcia Hervia Gonzalez,Ventas,Comercial Junior,2022-09-03,,25743,51,M,3.2
+665,Octavio Severiano Berrocal Angulo,Atención al Cliente,Responsable de Atención al Cliente,2021-10-02,,35971,53,M,2.9
+666,Hermenegildo Pinilla Pi,Finanzas,Analista Financiero,2026-04-26,,25575,47,F,4.0
+667,Juanita de Agustí,Operaciones,Responsable de Operaciones,2021-09-26,,42228,23,F,3.2
+668,Ariel Valero Roura,Ventas,Responsable de Ventas,2024-08-25,,43111,46,M,3.8
+669,Marcia Bustos Álvarez,Finanzas,Responsable Financiero,2021-04-10,,44874,25,F,3.0
+670,Darío Galván Talavera,Tecnología,Desarrollador Junior,2021-04-09,,29794,48,M,2.5
+671,Alonso Benavente-Lozano,Atención al Cliente,Responsable de Atención al Cliente,2022-06-02,,36391,31,F,2.5
+672,Marcela de Escobar,Tecnología,Responsable de Tecnología,2021-01-20,,52932,28,M,3.4
+673,Adriana Galan Cobos,Tecnología,Responsable de Tecnología,2021-10-08,,48769,28,F,4.2
+674,Áurea Benítez Martínez,Operaciones,Técnico de Operaciones,2023-10-17,,22887,34,M,2.8
+675,Lope Hernandez Porcel,Marketing,Especialista de Marketing,2023-01-04,,25667,40,F,4.2
+676,Eusebia del Chaves,Ventas,Comercial Senior,2026-02-08,2026-07-08,32082,52,M,3.2
+677,Josué Oliva Baeza,Operaciones,Técnico de Operaciones,2024-10-07,2025-12-01,22810,29,M,3.5
+678,Isaías Guerra Benitez,Ventas,Comercial Junior,2025-05-16,,23606,28,M,1.4
+679,María Del Carmen Puente Morera,Tecnología,Desarrollador Senior,2026-06-25,,39727,51,F,4.0
+680,Maximiliano Llano Sanjuan,Ventas,Comercial Junior,2025-11-26,2025-12-26,23658,40,M,2.9
+681,Corona Pagès Perez,Finanzas,Analista Senior,2023-05-23,,36098,28,F,4.4
+682,Cayetana Pinto Boada,Ventas,Comercial Junior,2024-09-20,,24547,43,M,2.9
+683,Emiliana Rosalva Hoz Beltrán,Marketing,Responsable de Marketing,2022-07-04,,42411,27,M,3.0
+684,Eloy Correa Pinto,Finanzas,Analista Financiero,2021-08-22,,28602,51,M,2.9
+685,Rafael Porras Moliner,Marketing,Responsable de Marketing,2025-10-09,,41734,48,F,4.2
+686,Ascensión Bravo Adadia,Ventas,Responsable de Ventas,2025-01-27,2025-08-25,43538,32,F,3.2
+687,Iván Geraldo Lerma Calatayud,Atención al Cliente,Responsable de Atención al Cliente,2023-09-16,,35610,50,F,2.3
+688,Armando Exposito Rosa,Tecnología,Desarrollador Senior,2024-06-06,2026-03-28,38870,30,M,2.7
+689,Manuela Vila Raya,RRHH,Técnico de RRHH,2025-12-23,,24495,24,F,4.1
+690,Albert Borrás Otero,Operaciones,Coordinador de Operaciones,2021-01-26,,31089,55,F,4.3
+691,Araceli del Plaza,RRHH,Responsable de RRHH,2025-11-24,,40647,55,F,2.1
+692,Esteban Riba Pons,Atención al Cliente,Responsable de Atención al Cliente,2022-05-25,,36267,46,F,3.7
+693,Primitivo Herrero Vázquez,Marketing,Responsable de Marketing,2026-01-01,,44552,25,F,4.2
+694,Octavio Pintor Doménech,Tecnología,Desarrollador Junior,2023-11-02,,29536,53,F,3.9
+695,Eloy Mascaró Ledesma,Ventas,Comercial Senior,2022-10-19,2023-09-14,32646,39,F,2.8
+696,Blanca Barroso Diego,Atención al Cliente,Responsable de Atención al Cliente,2024-08-10,,35141,37,F,4.1
+697,Eliana Robledo Marí,Atención al Cliente,Responsable de Atención al Cliente,2023-07-07,2024-04-02,35461,53,M,3.6
+698,Ricarda Benítez Paniagua,Operaciones,Coordinador de Operaciones,2025-03-07,,31387,28,M,3.3
+699,Duilio Valcárcel-Ferrán,Atención al Cliente,Responsable de Atención al Cliente,2024-01-30,2024-05-29,36032,27,M,4.4
+700,Ascensión Cerdá Mayo,Marketing,Responsable de Marketing,2022-02-28,,42380,51,M,3.7
+701,Hector Márquez Pinto,Operaciones,Técnico de Operaciones,2025-07-31,,22614,51,M,3.7
+702,Isabela Nadal Ros,Atención al Cliente,Responsable de Atención al Cliente,2024-05-13,,35750,45,M,4.1
+703,Bernarda Emperatriz Montes Font,Ventas,Responsable de Ventas,2022-03-31,2024-06-18,47315,44,M,2.8
+704,Estefanía Elías Puig,Atención al Cliente,Agente Senior,2024-12-08,2026-06-01,26112,32,M,4.3
+705,Emelina Tudela Herrera,Ventas,Responsable de Ventas,2025-03-01,,41322,28,M,4.2
+706,Florina Lozano Pozo,Tecnología,Desarrollador Junior,2021-09-05,,30317,47,F,3.3
+707,Aurora Folch Escolano,Atención al Cliente,Agente de Soporte,2025-01-07,,19585,48,F,3.0
+708,Alba del Gallego,RRHH,Responsable de RRHH,2024-04-20,,43445,50,M,3.4
+709,Rosalva Manuel Bayón,Tecnología,Responsable de Tecnología,2021-10-03,,50001,22,F,3.0
+710,Nerea Valera Chaparro,Atención al Cliente,Agente Senior,2025-09-14,,26560,54,F,3.8
+711,Dionisio Edmundo Correa Rocha,Tecnología,Desarrollador Junior,2025-02-05,,28761,28,M,3.1
+712,Angelina Sanchez Tello,Tecnología,Responsable de Tecnología,2025-12-13,,51216,46,M,2.8
+713,Gracia Velázquez-Ripoll,RRHH,Responsable de RRHH,2025-04-11,,43923,47,M,3.2
+714,Alicia del Blázquez,RRHH,Especialista de RRHH,2025-07-07,,32920,48,M,4.5
+715,Rodrigo Hurtado Padilla,Marketing,Responsable de Marketing,2025-10-29,,43997,57,F,3.1
+716,Moisés Arregui Pulido,Operaciones,Responsable de Operaciones,2025-01-03,,41672,44,F,3.4
+717,Rosalinda Ros Camacho,RRHH,Responsable de RRHH,2026-06-21,,40144,54,M,3.6
+718,Augusto Jordán Girona,Tecnología,Desarrollador Senior,2024-02-26,,37034,58,M,4.2
+719,Piedad Villena,Tecnología,Responsable de Tecnología,2022-08-09,,51070,49,F,3.5
+720,Marisa de Salinas,Atención al Cliente,Agente de Soporte,2023-02-20,2024-05-15,20827,25,F,3.0
+721,Genoveva Sierra Vall,Operaciones,Técnico de Operaciones,2022-08-10,,24147,31,F,4.4
+722,Francisco Jose Amat Tolosa,Tecnología,Desarrollador Senior,2022-02-22,,40687,24,M,2.0
+723,Eusebio Ricart Boada,Finanzas,Analista Financiero,2024-06-15,,28125,57,F,4.1
+724,Severo Cifuentes Olivé,Finanzas,Responsable Financiero,2023-03-08,,45366,40,F,3.9
+725,Francisco Javier Javier Gabaldón Vázquez,RRHH,Especialista de RRHH,2023-05-04,,32278,42,F,2.6
+726,Febe Tamayo Cabanillas,Ventas,Comercial Senior,2022-02-20,,33112,50,F,3.6
+727,Palmira Santamaria Montaña,Marketing,Responsable de Marketing,2024-12-24,,43475,59,F,2.7
+728,Eutimio Arribas Cardona,Finanzas,Analista Financiero,2022-08-26,,28150,26,F,2.2
+729,Teobaldo Novoa Canales,RRHH,Responsable de RRHH,2023-11-19,,38084,24,M,3.5
+730,Raimundo Hervás Villalobos,Operaciones,Coordinador de Operaciones,2021-09-24,,31784,38,F,3.6
+731,Leoncio Cuesta Muro,Operaciones,Responsable de Operaciones,2026-04-04,,40107,31,M,3.3
+732,Inmaculada del Guardiola,Atención al Cliente,Responsable de Atención al Cliente,2024-06-14,,36442,41,M,3.5
+733,Mayte Espinosa Estrada,Finanzas,Responsable Financiero,2023-01-04,2024-08-26,47129,42,F,3.5
+734,Gertrudis Andres Figueroa,RRHH,Responsable de RRHH,2021-05-20,,41975,32,M,4.0
+735,Martina Román Porcel,Atención al Cliente,Agente Senior,2021-07-08,,25648,35,M,3.9
+736,Pastor Garmendia Fuster,Operaciones,Coordinador de Operaciones,2022-03-24,,30049,55,M,3.6
+737,Renato Barros-Cal,RRHH,Responsable de RRHH,2021-01-19,,40531,44,M,2.8
+738,Cayetana del Moreno,Operaciones,Responsable de Operaciones,2024-06-10,,41153,37,F,2.1
+739,Jenaro Carbonell,Tecnología,Desarrollador Senior,2023-02-21,,38506,29,M,2.3
+740,Nico Tovar-Álamo,Operaciones,Responsable de Operaciones,2022-08-03,2024-04-24,42583,55,M,4.6
+741,María Pont Poza,Atención al Cliente,Responsable de Atención al Cliente,2023-07-02,,35860,40,F,3.3
+742,Aurora Oliveras-Ortiz,Operaciones,Técnico de Operaciones,2026-04-26,,24468,56,F,3.6
+743,María Pilar Duque Martorell,Tecnología,Desarrollador Junior,2024-10-04,,30163,35,M,3.6
+744,Marta Anselma Cañete Millán,Marketing,Especialista de Marketing,2024-01-07,,26034,49,F,3.9
+745,Dimas Mayoral Caro,Finanzas,Analista Financiero,2021-02-18,,30687,43,F,2.1
+746,Glauco Cid Vicente,Ventas,Comercial Junior,2021-12-31,,23926,57,F,4.4
+747,Hortensia Cervera Pla,Atención al Cliente,Agente de Soporte,2026-02-09,,20908,46,M,4.1
+748,Cayetana Torrecilla Duran,Tecnología,Desarrollador Senior,2022-10-10,2025-07-26,41191,29,F,2.7
+749,Carina del Malo,Tecnología,Responsable de Tecnología,2021-05-10,,53565,59,F,2.7
+750,Ciro Miranda Sanmartín,Tecnología,Desarrollador Junior,2023-01-03,,29030,28,M,3.2
+751,Amelia Teresita Palomar Agustí,Finanzas,Analista Senior,2024-05-27,2024-06-26,36164,50,M,3.8
+752,Bernarda Ferrero Plana,Atención al Cliente,Responsable de Atención al Cliente,2021-03-05,,36058,56,F,4.6
+753,Ligia del Rebollo,Ventas,Comercial Senior,2025-06-20,,31169,56,M,3.5
+754,Herminia Saldaña Torres,RRHH,Técnico de RRHH,2022-09-03,,23881,45,F,2.5
+755,Ariel Anguita Giménez,Atención al Cliente,Responsable de Atención al Cliente,2021-10-17,2022-05-15,35950,22,M,3.2
+756,Alcides Emigdio Gomila Malo,Atención al Cliente,Agente de Soporte,2022-09-17,2022-11-16,19996,44,F,3.9
+757,Rosario Sebastián Valbuena,Atención al Cliente,Responsable de Atención al Cliente,2025-10-10,,36109,32,F,2.4
+758,Lina de Carbonell,Operaciones,Coordinador de Operaciones,2022-02-02,2022-11-29,29622,58,F,3.7
+759,Roldán Pedraza-Arnaiz,Marketing,Responsable de Marketing,2023-08-03,,46596,26,M,3.7
+760,Magdalena Gil Rodríguez,Tecnología,Desarrollador Senior,2021-07-21,,38699,59,M,2.9
+761,Quirino Huertas Martorell,RRHH,Especialista de RRHH,2021-09-20,,31273,37,F,2.8
+762,Jafet Jódar Olivé,Operaciones,Técnico de Operaciones,2026-01-18,,23723,53,M,3.5
+763,Isidoro Carpio Gálvez,Operaciones,Responsable de Operaciones,2022-09-19,,37396,31,M,3.4
+764,Santiago Orozco,Finanzas,Analista Senior,2021-12-12,2024-01-01,35055,37,F,2.3
+765,Melania Inés Daza Chaparro,Tecnología,Responsable de Tecnología,2023-06-13,,48393,45,F,2.3
+766,Santos Gabaldón,Tecnología,Desarrollador Senior,2025-12-03,,39445,50,M,3.8
+767,Lucas Orozco Lucas,Finanzas,Analista Senior,2024-02-04,2024-05-04,37193,60,F,3.5
+768,Lupita Carla Morales Marco,Marketing,Especialista de Marketing,2025-12-31,,24987,38,F,2.9
+769,Luciano Eliseo Vilar Bustos,Finanzas,Analista Financiero,2025-10-06,,28342,23,M,2.8
+770,Remigio Reina Barranco,Finanzas,Analista Financiero,2026-01-31,2026-03-02,27788,38,M,2.7
+771,Toribio Castañeda-Cazorla,Tecnología,Desarrollador Junior,2023-01-20,,28868,59,M,3.5
+772,Camilo del Huertas,Ventas,Responsable de Ventas,2023-11-12,2024-09-07,41916,45,F,4.3
+773,Laura Cisneros Leiva,Tecnología,Responsable de Tecnología,2024-11-02,,54314,54,F,4.2
+774,Florina Sans Benet,Atención al Cliente,Agente de Soporte,2024-03-05,,19844,31,M,3.5
+775,Heriberto Villalba Lobo,RRHH,Técnico de RRHH,2022-03-25,,25132,36,F,3.7
+776,Jenny Torrents Morán,Operaciones,Técnico de Operaciones,2021-03-29,,24030,55,M,3.4
+777,Abril Buendía-Sedano,Atención al Cliente,Agente Senior,2025-12-11,2026-07-09,25977,42,F,3.3
+778,Susanita Barroso Puga,Tecnología,Responsable de Tecnología,2024-07-21,,51742,38,F,2.1
+779,Iker Galán,Operaciones,Coordinador de Operaciones,2023-01-19,,29859,26,M,3.5
+780,Edelmira Moraleda Luque,Operaciones,Técnico de Operaciones,2023-11-24,,23633,44,M,2.7
+781,Maite Castrillo Toro,Finanzas,Responsable Financiero,2021-01-14,,50531,30,M,2.8
+782,Virginia Atienza Arteaga,Ventas,Comercial Junior,2023-11-20,,25307,35,F,3.7
+783,Matías Segura Alegre,Operaciones,Coordinador de Operaciones,2024-05-17,,29746,29,F,4.6
+784,Timoteo Cruz Sainz,Atención al Cliente,Agente Senior,2025-01-15,2025-05-15,26612,52,M,3.2
+785,Abigaíl Roman Francisco,Operaciones,Técnico de Operaciones,2024-08-18,,24694,23,F,3.8
+786,Valero Matas Cuenca,Ventas,Responsable de Ventas,2024-04-28,2025-09-20,42776,54,F,4.0
+787,Arturo Palomo-Ibáñez,Marketing,Especialista de Marketing,2021-04-25,,26161,33,M,2.2
+788,Gilberto Dalmau Azorin,Atención al Cliente,Responsable de Atención al Cliente,2024-07-29,,33783,40,F,2.7
+789,Maura Mayoral Guillén,Operaciones,Responsable de Operaciones,2023-08-24,,43470,32,F,3.2
+790,Morena Bou Bustamante,Marketing,Responsable de Marketing,2021-10-20,,40678,33,M,2.7
+791,Custodio Tapia Bermejo,Ventas,Responsable de Ventas,2022-12-03,,42283,60,F,3.4
+792,Manu Gonzalo Vives,Operaciones,Coordinador de Operaciones,2021-09-28,2022-08-24,29844,34,M,3.3
+793,Adelia Aguiló Nuñez,Marketing,Responsable de Marketing,2021-07-17,,39974,60,F,2.8
+794,Tito Roca Catalán,Marketing,Responsable de Marketing,2023-10-28,,43947,27,M,4.5
+795,Andrea Granados Piñol,Tecnología,Responsable de Tecnología,2024-01-10,,49531,49,M,3.0
+796,Pío Calatayud Calderón,Operaciones,Técnico de Operaciones,2024-11-29,,23477,36,M,3.6
+797,Flor Martínez Cerro,Finanzas,Analista Senior,2022-12-19,,34920,58,F,3.7
+798,Remedios Cañas Clavero,Atención al Cliente,Agente Senior,2023-09-05,,25684,27,M,3.4
+799,Juan Manuel Aguirre Córdoba,Atención al Cliente,Responsable de Atención al Cliente,2023-04-17,2024-10-08,36008,22,F,2.6
+800,Felicia Garcés Cordero,Atención al Cliente,Agente de Soporte,2023-12-01,2024-08-27,20827,35,M,4.5
+801,María Manuela Salas Gaya,Atención al Cliente,Agente de Soporte,2021-11-13,,21373,59,M,3.2
+802,Vidal Cabrera Chaves,Operaciones,Responsable de Operaciones,2023-05-18,,42161,39,M,3.2
+803,Macario Plana Ortega,Finanzas,Analista Senior,2024-02-05,,37564,52,F,3.7
+804,Estela Chaves Huguet,Operaciones,Responsable de Operaciones,2023-09-18,,40821,41,M,3.7
+805,Mohamed Blasco-Hurtado,Finanzas,Analista Senior,2025-02-15,,33905,29,F,2.6
+806,María Carmen del Amor,Atención al Cliente,Responsable de Atención al Cliente,2026-04-29,,36190,35,M,4.5
+807,Cristian Juan Antonio Vergara Fabregat,Finanzas,Responsable Financiero,2024-06-11,,48500,25,F,3.2
+808,Emiliana Ballester Heras,Atención al Cliente,Responsable de Atención al Cliente,2021-01-11,,37636,31,M,2.7
+809,Gabriela Capdevila Hernando,RRHH,Especialista de RRHH,2021-06-30,2021-12-27,31303,36,M,3.1
+810,Merche Belda Álvarez,Ventas,Comercial Junior,2025-01-23,,22850,47,M,3.9
+811,Geraldo Moliner Catalán,Tecnología,Responsable de Tecnología,2021-04-28,,49854,33,M,3.6
+812,Teodora Rivero Pavón,Atención al Cliente,Agente de Soporte,2025-10-08,,22382,55,M,2.8
+813,Nilda de Sotelo,Operaciones,Responsable de Operaciones,2023-11-12,,36782,36,F,3.2
+814,Adán Bauzà Alcalá,Tecnología,Desarrollador Senior,2022-05-05,,40834,32,F,4.8
+815,Cándido Ariño-Barrena,RRHH,Especialista de RRHH,2022-12-25,,30065,47,F,3.7
+816,Lilia Macías Vallejo,Atención al Cliente,Responsable de Atención al Cliente,2024-12-12,2025-08-09,35858,27,M,2.3
+817,Ileana Quesada Blanca,Finanzas,Responsable Financiero,2026-02-17,,48481,44,M,3.6
+818,Lupita de Lobato,Operaciones,Técnico de Operaciones,2023-07-21,,24974,58,F,3.1
+819,Fabián Bermúdez Vidal,Operaciones,Coordinador de Operaciones,2023-11-03,2025-01-26,31225,26,M,3.1
+820,Sancho Cortés,Operaciones,Técnico de Operaciones,2025-07-03,,23814,38,M,3.4
+821,Eugenia del Batalla,Tecnología,Desarrollador Senior,2024-02-28,,40876,37,M,3.4
+822,Paco Isaías Gómez Barco,RRHH,Especialista de RRHH,2024-10-27,,29431,59,F,4.3
+823,Armando del Carmona,Atención al Cliente,Agente Senior,2021-05-19,,25396,36,F,2.9
+824,María José Ballesteros Mendoza,Finanzas,Analista Senior,2026-05-11,,35205,56,F,4.4
+825,Benito Alberola Cervantes,Tecnología,Desarrollador Senior,2022-05-24,,35440,47,M,5.0
+826,Ceferino Valderrama Oliver,Ventas,Comercial Junior,2023-09-03,,25380,35,M,3.6
+827,Lorena Jove,Operaciones,Responsable de Operaciones,2024-10-31,,40908,34,M,3.6
+828,Gilberto Castañeda Leiva,Finanzas,Analista Financiero,2025-02-15,,28521,38,F,3.9
+829,Rogelio Andreu Naranjo,Operaciones,Técnico de Operaciones,2025-09-09,,23963,31,F,3.5
+830,Elena Zabaleta Bartolomé,Ventas,Comercial Junior,2024-10-16,,24335,53,F,3.3
+831,Pelayo Benítez-Valderrama,Finanzas,Responsable Financiero,2026-05-16,,50267,52,M,3.3
+832,Lina Palomino Baquero,Tecnología,Desarrollador Senior,2026-01-14,,40672,58,M,5.0
+833,Tecla Diaz Pedro,Atención al Cliente,Responsable de Atención al Cliente,2022-07-28,,36256,58,F,4.8
+834,Edu Calderon Carlos,Ventas,Comercial Senior,2023-09-07,,31678,24,M,4.1
+835,Raimundo de Arregui,Atención al Cliente,Responsable de Atención al Cliente,2025-05-09,,34704,29,M,2.4
+836,Donato Arteaga Suarez,Operaciones,Técnico de Operaciones,2021-01-25,,22977,46,F,4.0
+837,Fátima Conesa Escamilla,Operaciones,Responsable de Operaciones,2025-11-01,,42588,57,M,3.8
+838,Leonel Rius Gomez,Operaciones,Coordinador de Operaciones,2026-05-18,,31345,45,F,3.8
+839,Diana Rico Montero,Atención al Cliente,Agente de Soporte,2023-05-09,,20572,45,M,3.7
+840,Seve Bermejo-Peralta,Marketing,Marketing Senior,2023-07-13,,33433,30,F,3.9
+841,José Badía Escobar,Finanzas,Responsable Financiero,2022-07-07,,50377,57,M,3.9
+842,Samu de Quero,Marketing,Especialista de Marketing,2021-10-26,,25792,31,M,4.1
+843,Valentín Sola Lumbreras,Finanzas,Analista Financiero,2023-05-14,,27973,55,M,2.8
+844,Fernando Armando Saura Aguiló,Finanzas,Analista Senior,2022-05-29,,35782,58,F,2.9
+845,Chus Manzanares Mateu,Atención al Cliente,Responsable de Atención al Cliente,2021-12-01,2022-06-29,35807,38,M,3.5
+846,Daniela Jordana Pedrosa Uriarte,Marketing,Especialista de Marketing,2023-07-11,,25387,38,M,3.4
+847,Quique Higueras,Operaciones,Responsable de Operaciones,2026-03-24,,42014,44,F,3.1
+848,Abraham Redondo Alvarez,Atención al Cliente,Agente Senior,2025-11-12,,25853,60,F,4.4
+849,Kike del Agustí,Atención al Cliente,Responsable de Atención al Cliente,2024-08-22,,36004,40,M,3.3
+850,Abigaíl Peñalver Meléndez,Operaciones,Responsable de Operaciones,2023-09-26,,41137,50,F,3.3
